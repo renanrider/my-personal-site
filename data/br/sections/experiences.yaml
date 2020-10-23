@@ -1,0 +1,88 @@
+# section information
+section:
+  name: Experiências
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  template: sections/experiences.html
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+  - company:
+      name: Ideas Farm
+      url: "https://ideasfarm.com.br/"
+      location: São Paulo - Brasil
+      # company overview
+      overview: Empresa referência nacional de desenvolvimento de aplicativos em realidade aumentada.
+    positions:
+      - designation: Desenvolvedor Unity
+        start: Outubro de 2018
+        end: Maio de 2020
+        # don't provide end date if you are currently working there. It will be replaced by "Present"
+        # end: Dec 2020
+        # give some points about what was your responsibilities at the company.
+        responsibilities:
+          - Desenvolvimentos de scripts para criações de interações em realidade aumentada.
+          - UI/UX para interações de realidade aumentada.
+          - Atualizações de WebSites, automações de email Marketing e desenvolvimento de ferramentas para automatizar o processo de criações de usuários e interações na plataforma de realidade aumentada.
+
+  - company:
+      name: Happy Code.
+      url: "https://happycodeschool.com/"
+      location: São Paulo - Brasil
+      overview: A Happy Code é uma escola de programação, desenvolvimento de games, aplicativos para crianças de 6 à 17 anos, que se destacou no mercado nacional por utilizar a metodologia STEAM é um acrônimo em inglês para as disciplinas Science, Technology, Engineering, Arts e Mathematics.
+    positions:
+      - designation: Instrutor
+        start: Setembro de 2017
+        end: Outubro de 2018
+        responsibilities:
+          - Ministrar cursos de programação de games utilizando a engine Unity e Construct.
+          - Ministrar curso de Modelagem 3D com blender.
+          - Ministrar curso de Internet of Things.
+
+  - company:
+      name: Conversion
+      url: "https://www.conversion.com.br"
+      location: São Paulo - Brasil
+      overview: ge des ingénieurs stagiaires du monde entier.
+    positions:
+      - designation: Estagiário Front-End
+        start: Fevereiro de 2015
+        end: Abril de 2016
+        responsibilities:
+          - Configurar plataforma CMS e e-commerce.
+          - Configurar Google Analytics.
+          - Criar relatórios com melhorias de SEO para serem implementadas.
+          - Trabalhei com implementações SEO On-Page de diversos clientes como Brastemp, Consul, ViajaNet, Itaú, Serasa Experian, Walmart e Staples.
+
+  - company:
+      name: B2BR
+      url: "B2BR"
+      location: Osasco, SP - Brasil
+      overview: ge des ingénieurs stagiaires du monde entier.
+    positions:
+      - designation: Operador Nível 1 IBM z Systems z/OS
+        start: Junho de 2012
+        end: Novembro de 2013
+        responsibilities:
+          - Monitorar o ambiente Mainframe utilizando o ambiente MVS/ZOS.
+          - Gerar relatórios de performance do sistema.
+          - Gerar relatórios com melhorias de SEO para serem implementadas.
+          - Responsável pelo acesso a sala cofre e todas as atividades técnicas relacionadas ao data center, agendando visitas técnicas com empresas IBM, EMC, HP, Oracle.
+
+  - company:
+      name: Probank
+      url: "B2BR"
+      location: Osasco, SP - Brasil
+      overview: ge des ingénieurs stagiaires du monde entier.
+    positions:
+      - designation: Operador Nível 1 IBM z Systems z/OS
+        start: Setembro de 2011
+        end: Junho de 2012
+        responsibilities:
+          - Administração do ambiente Fitoteca.
+          - Submeter scripts para para gerenciamento da Biblioteca de fitas IBM.
+          - Gerar relatórios pertinentes a administração da Biblioteca de fitas IBM

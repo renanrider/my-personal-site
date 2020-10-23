@@ -1,0 +1,30 @@
+# section information
+section:
+  name: Projetos
+  id: projects
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  template: sections/projects.html
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+buttons:
+- name: All
+  filter: "all"
+- name: Profissional
+  filter: "profissional"
+- name: Hobby
+  filter: "hobby"
+
+# your projects
+
+- name: Nocode
+  logo: images/projects/no-code.png
+  role: Rien
+  timeline: "Oct 2019 - Dec 2019"
+  repo:
+  #url: ""
+  summary: La meilleure façon de rédiger des demandes sûres et fiables. N'écrivez rien, ne déployez rien.
+  tags: ["Profissional"]

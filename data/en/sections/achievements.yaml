@@ -1,0 +1,107 @@
+# section information
+section:
+  name: Conquistas
+  id: achievements
+  enable: true
+  weight: 6
+  showOnNavbar: true
+  template: sections/achievements.html
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your achievements achievements
+achievements:
+- title: TA - Introdução a IoT(Internet of Things) Módulo 1
+  image: images/achievements/certificate.png
+  summary: Certificado -> https://drive.google.com/file/d/0B0M5mfjkDXt3U3E0bmtUMjhMdGM/view
+
+- title: TA - Introdução a IoT(Internet of Things) Módulo 2
+  image: images/achievements/certificate.png
+  summary: Certificado -> https://drive.google.com/file/d/0B0M5mfjkDXt3WnFRdklBa2F3Zm8/view
+
+- title: D1 - Tópicos em Desenvolvimento Ágil
+  image: images/achievements/certificate.png
+  summary: Certificado -> https://drive.google.com/file/d/0B0M5mfjkDXt3WnFRdklBa2F3Zm8/view
+
+- title: A4 - Introdução ao Desenvolvimento de aplicativos Android & Samsung mobile SDK
+  image: images/achievements/certificate.png
+  summary: Certificado -> https://drive.google.com/file/d/0B0M5mfjkDXt3WnFRdklBa2F3Zm8/view
+
+- title: A3 - Laboratório de Desenvolvimento de Aplicativos Android & Samsung mobile SDK
+  image: images/achievements/certificate.png
+  summary: Certificado -> https://drive.google.com/file/d/0B0M5mfjkDXt3WnFRdklBa2F3Zm8/view
+
+- title: A6 - Android CodeLab de Web Services
+  image: images/achievements/certificate.png
+  summary: Certificado -> https://drive.google.com/file/d/0B0M5mfjkDXt3WnFRdklBa2F3Zm8/view
+
+- title: A7 - Android CodeLab de Banco de Dados
+  image: images/achievements/certificate.png
+  summary: Certificado -> https://drive.google.com/file/d/0B0M5mfjkDXt3RUk0NzhBMl95a0U/view
+
+- title: A8 - Android CodeLab de GPS & Lista (UI)
+  image: images/achievements/certificate.png
+  summary: Certificado -> https://drive.google.com/file/d/0B0M5mfjkDXt3WUN4dUEyQmxnZ0E/view
+
+- title: A9 - Android CodeLab de Multithread & Menu (UI)
+  image: images/achievements/certificate.png
+  summary: Certificado -> https://drive.google.com/file/d/0B0M5mfjkDXt3WUN4dUEyQmxnZ0E/view
+
+- title: A10 - Android CodeLab de Push & Imagem
+  image: images/achievements/certificate.png
+  summary: Certificado -> https://drive.google.com/file/d/0B0M5mfjkDXt3eExmZWhoR2h2R2s/view
+
+- title: G1 - Introdução aos Jogos Digitais
+  image: images/achievements/certificate.png
+  summary: Certificado -> https://drive.google.com/file/d/0B0M5mfjkDXt3eExmZWhoR2h2R2s/view
+
+- title: G2 - Laboratório de Jogos Digitais utilizando a plataforma Unity
+  image: images/achievements/certificate.png
+  summary: Certificado -> https://drive.google.com/file/d/0B0M5mfjkDXt3VXAxWktQNmI1Ync/view
+
+- title: Creating 3D environments in Blender
+  image: images/achievements/certificate.png
+  summary: Certificado -> https://www.udemy.com/course/blender-environments/
+
+- title: Git e Github para iniciantes
+  image: images/achievements/certificate.png
+  summary: Curso -> https://www.udemy.com/course/git-e-github-para-iniciantes/
+
+- title: Pass the Unity Certified Developer Exam - Lifetime Access
+  image: images/achievements/certificate.png
+  summary: Certificado -> https://www.udemy.com/certificate/UC-QYXZKKC5/
+
+- title: Model-View-Controller design pattern with Unity
+  image: images/achievements/certificate.png
+  summary: Certificado -> https://www.udemy.com/certificate/UC-LTZJH6XQ/
+
+- title: The Complete Node.js Developer Course (3rd Edition)
+  image: images/achievements/certificate.png
+  summary: Certificado -> https://www.udemy.com/certificate/UC-29210deb-314e-4b34-bedd-65e78a98942b/
+
+- title: Sistemas para Internet - Fatec
+  image: images/achievements/certificate.png
+  summary:
+
+- title: Interfaces Web, com HTML, CSS e Javascript
+  image: images/achievements/certificate.png
+  summary:
+
+- title: Informática Básica
+  image: images/achievements/certificate.png
+  summary: SENAI Nadir Dias de Figueiredo
+
+- title: Montagem e manutenção de computadores
+  image: images/achievements/certificate.png
+  summary: SENAI Nadir Dias de Figueiredo
+
+- title: Redes cabeamento estruturado
+  image: images/achievements/certificate.png
+  summary: SENAI Mariano Ferraz
+
+- title: Test of English as a Foreign Language
+  image: images/achievements/certificate.png
+  summary: Nível intermediário
+
+
+
