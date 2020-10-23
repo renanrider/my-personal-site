@@ -52,7 +52,7 @@ projects:
     tags: ["personal"]
 
   - name: Blog Viajanet
-    logo: images/projects/no-code.png
+    #logo: images/projects/no-code.png
     role: Dev
     #timeline: "Oct 2019 - Dec 2019"
     #repo: https://github.com/kelseyhightower/nocode
@@ -61,7 +61,7 @@ projects:
     tags: ["professionnel"]
 
   - name: Ideas Farm
-    logo: images/projects/no-code.png
+    #logo: images/projects/no-code.png
     role: Dev
     #timeline: "Oct 2019 - Dec 2019"
     #repo: https://github.com/kelseyhightower/nocode
