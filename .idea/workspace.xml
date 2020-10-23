@@ -4,8 +4,7 @@
     <list default="true" id="4bfdcce1-e787-48e4-ae42-594ea27e9b81" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/themes/toha/i18n/br.toml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/br/sections/skills.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/data/br/sections/skills.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/br/sections/about.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/data/br/sections/about.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/toha" beforeDir="false" afterPath="$PROJECT_DIR$/themes/toha" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/toha/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/toha/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/toha/exampleSite/config.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/toha/exampleSite/config.yaml" afterDir="false" />
@@ -54,7 +53,8 @@
       <option name="presentableId" value="Default" />
       <updated>1603388211478</updated>
       <workItem from="1603388212703" duration="22828000" />
-      <workItem from="1603459667405" duration="7473000" />
+      <workItem from="1603459667405" duration="8088000" />
+      <workItem from="1603471217962" duration="79000" />
     </task>
     <servers />
   </component>

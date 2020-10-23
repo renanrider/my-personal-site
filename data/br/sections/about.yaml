@@ -33,11 +33,11 @@ socialLinks:
 
   - name: Stackoverflow
     icon: "fab fa-stack-overflow"
-    url: "#"
+    url: "https://stackoverflow.com/users/6876424/renanrider"
 
   - name: LinkedIn
     icon: "fab fa-linkedin"
-    url: "www.linkedin.com/in/renanneves"
+    url: "https://www.linkedin.com/in/renanneves"
 
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.
