@@ -47,15 +47,15 @@ params:
   # transparent navbar and the main logo will be used in the non-transparent navbar.
   # It will be default to the theme logos if not provided.
   logo:
-    main: images/avatar.jpg
-    inverted: images/avatar.jpg
+    main: images/avatar.png
+    inverted: images/avatar.png
     favicon: assets/images/favicon.png
 
   # GitHub repo URL of your site
   gitRepo: https://github.com/hossainemruz/toha-example-site
 
   # specify whether you want to write blog post or not
-  enableBlogPost: true
+  enableBlogPost: false
 
   # specify whether you want to show Table of Contents in reading page
   enableTOC: true

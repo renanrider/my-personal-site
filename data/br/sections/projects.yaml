@@ -22,7 +22,7 @@ buttons:
 # your projects
 projects:
   - name: Aplicativo de Realidada Aumentada Eclipse Cross Mitsubishi
-    logo: images/projects/kubernetes.png
+    #logo: images/projects/kubernetes.png
     role: Dev
     #timeline: "Mars 2018 - Présent"
     #repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
