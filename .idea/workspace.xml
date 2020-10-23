@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4bfdcce1-e787-48e4-ae42-594ea27e9b81" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/themes/toha/i18n/br.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/toha" beforeDir="false" afterPath="$PROJECT_DIR$/themes/toha" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/toha/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/toha/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/toha/exampleSite/config.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/toha/exampleSite/config.yaml" afterDir="false" />
@@ -52,7 +50,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603388211478</updated>
-      <workItem from="1603388212703" duration="22196000" />
+      <workItem from="1603388212703" duration="22485000" />
     </task>
     <servers />
   </component>
