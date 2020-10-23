@@ -41,7 +41,7 @@ skills:
     summary: "Experiência com a nuvem Heroku"
 
   - name: C#
-    icon: "images/skills/c#.png"
+    icon: "images/skills/c.png"
     summary: "Capaz de escrever scripts para serem utilizados na engine Unity, comumente utilizado em desenvolvimento de jogos e aplicativos de realidade aumentada."
 
   - name: Unity
