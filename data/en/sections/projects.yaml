@@ -11,47 +11,60 @@ section:
 
 # filter buttons
 buttons:
-- name: All
-  filter: "all"
-- name: Profissional
-  filter: "professionnel"
-- name: Academico
-  filter: "ecole"
-- name: Hobby
-  filter: "hobby"
-
+  - name: Todos
+    filter: "all"
+  - name: Profissional
+    filter: "professionnel"
+  - name: Hobby
+    filter: "hobby"
+  - name: Pessoal
+    filter: "personal"
 # your projects
 projects:
-- name: Kubernetes
-  logo: images/projects/kubernetes.png
-  role: Contributeur
-  timeline: "Mars 2018 - Présent"
-  repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
-  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Planification et gestion des conteneurs de qualité production.
-  tags: ["professionnel", "kubernetes", "cloud"]
+  - name: Aplicativo de Realidada Aumentada Eclipse Cross Mitsubishi
+    logo: images/projects/kubernetes.png
+    role: Dev
+    #timeline: "Mars 2018 - Présent"
+    #repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
+    url: "https://play.google.com/store/apps/details?id=br.com.ideasfarm.mitsubishiplay"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+    summary: Demonstrar todas as tecnologias embarcadas do veículo dispensando o uso do manual do proprietário. Neste projeto fui o responsável por trazer todas as informações mais relevantes para o cliente no ponto de vendas e criar experiências em realidade aumentada, facilitando para o cliente o entendimento de todas as tecnologias que o veículo possui.
+    tags: ["professionnel"]
 
-- name: Tensorflow
-  logo: images/projects/tensorflow.png
-  role: Développeur
-  timeline: "Juin 2018 - Présent"
-  repo: https://github.com/tensorflow/tensorflow
-  #url: ""
-  summary: Un cadre d'apprentissage machine à source ouverte pour tous.
-  tags: ["professionnel", "machine-learning","ecole"]
+  - name: Cat Jump — Hyper Casual Game
+    role: Dev/Artist
+    #timeline: "Janvier 2017 - Novembre 2017"
+    url: "https://play.google.com/store/apps/details?id=com.inhouseinteractive.catjump"
+    summary: É um jogo desafiador e divertido com design minimalista em estilo de infinity run, onde o objetivo é ultrapassar a maior quantidade de obstáculos possíveis e ainda recolher as moedas. Neste projeto foi utilizado as melhores práticas de desenvolvimento, tais como. Organização de diretórios, Design Patterns, Event System, Programação orientada a objetos e SOLID. Na parte de Assets, todas as imagens e objetos tridimensionais foram modelados e otimizados por mim.
+    tags: ["hobby"]
 
-- name: Un exemple d'article académique
-  role: Chef d'équipe
-  timeline: "Janvier 2017 - Novembre 2017"
-  url: "https://www.example.com"
-  summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente eius reprehenderit animi suscipit autem eligendi esse amet aliquid error eum. Accusantium distinctio soluta aliquid quas placeat modi suscipit eligendi nisi.
-  tags: ["ecole","iot"]
+  - name: Calopsita Cantando — Aplicativo
+    role: Dev
+    #timeline: "Janvier 2017 - Novembre 2017"
+    url: "https://play.google.com/store/apps/details?id=com.inhouseinteractive.catjump"
+    summary: É um aplicativo para ensinar calopsitas a cantar. A ideia do aplicativo surgiu quando ganhei uma calopsita e ela não cantava, procurei por algum aplicativo semelhante e não tinha nenhum usável. Desenvolvi a primeira versão nativa para Android que teve mais de 50 mil downloads, porém na época tive um problema com o keystore, e não consegui mais atualizazr o aplicativo, e reecriei o mesmo utilizando a Unity.
+    tags: [ "hobby" ]
 
-- name: Nocode
-  logo: images/projects/no-code.png
-  role: Rien
-  timeline: "Oct 2019 - Dec 2019"
-  repo: https://github.com/kelseyhightower/nocode
-  #url: ""
-  summary: La meilleure façon de rédiger des demandes sûres et fiables. N'écrivez rien, ne déployez rien.
-  tags: ["hobby", "fun"]
+  - name: Casa Fácil — Aplicativo para localizar imóveis para alugar ou comprar
+    role: Dev - WIP
+    #timeline: "Janvier 2017 - Novembre 2017"
+    url: "https://play.google.com/store/apps/details?id=com.inhouseinteractive.casafacil"
+    summary: É um aplicativo para anunciar imóveis de maneira simples, ao analisar aplicativos que existem no mercado, foi observado a dificuldade e a burocracia para anunciar um imóvel, visto essa lacuna, comecei a desenvolver o aplicativo Casa Fácil, desenvolvendo todo o backend utilizando a stack  MongoDB, Express e NodeJS e para o aplicativo o framework IONIC com AngularJS.
+    tags: ["personal"]
+
+  - name: Blog Viajanet
+    logo: images/projects/no-code.png
+    role: Dev
+    #timeline: "Oct 2019 - Dec 2019"
+    #repo: https://github.com/kelseyhightower/nocode
+    url: "https://www.viajanet.com.br/blog/"
+    summary: O objetivo era criar um blog que utilizasse uma plataforma simples para os redatores com foco em SEO. A plataforma escolhida foi o Wordpress por permitir criar várias contas para os redatores e ser simples de utilizar e ainda contar com uma vasta gama de plugins que otimizam a página ppara SEO. Resultado um blog com visual clean e que carrega muito rápido.
+    tags: ["professionnel"]
+
+  - name: Ideas Farm
+    logo: images/projects/no-code.png
+    role: Dev
+    #timeline: "Oct 2019 - Dec 2019"
+    #repo: https://github.com/kelseyhightower/nocode
+    url: "https://ideasfarm.com.br/"
+    summary: O objetivo era melhorar o site existente e criar diversas páginas explicando o produto principal do cliente. Foi desenvolvido um estrátegia de otimização Search Engine Optimization e reestrururação de diversas páginas e conteúdos. Melhorando o posicionamento do site para buscas relacionadas ao termo definido na estrátegia de marketing.
+    tags: ["professionnel"]

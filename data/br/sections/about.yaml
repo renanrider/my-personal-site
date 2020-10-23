@@ -15,7 +15,7 @@ company:
   url: "https://www.example.com"
 
 # your resume. this file path should be relative to you "static" directory
-resume: "files/resume.pdf"
+resume: "https://renanrider.github.io/cv/index.html"
 
 # a summary about you
 summary: 'Sou um desenvolvedor apaixonado por programação desde que conheci esse universo magnífico. Tenho 3 anos de experiência trabalhando profissionalmente com programação, mas programo por hobbie faz uns 8 anos. No meu último trabalho, fiz muitas interações em realidade aumentada, que foram vistas por centenas de pessoas. Às vezes, trabalho em alguns projetos pessoais, como criar games e filtros para redes sociais e etc.'
@@ -43,23 +43,23 @@ socialLinks:
 # give the percentage between 50 to 100 with 5 intervals.
 # currently supported colors: blue, yellow, pink, green, sky, orange
 softSkills:
-  - name: Liderança
-    percentage: 85
+  - name: Iniciativa
+    percentage: 95
     color: blue
-  - name: Trabalho Equipe
-    percentage: 90
+  - name: Criatividade
+    percentage: 100
     color: yellow
   - name: Comunicação
     percentage: 85
     color: pink
-  - name: Hard Working
-    percentage: 85
+  - name: Planejamento
+    percentage: 95
     color: green
   - name: Autoditata
-    percentage: 85
+    percentage: 95
     color: sky
-  - name: Resolução de problemas
-    percentage: 85
+  - name: Resiliência
+    percentage: 90
     color: orange
 # you can also provide color code instead of pre-defined color name
 # - name: Example 1
