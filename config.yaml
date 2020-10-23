@@ -7,12 +7,12 @@ theme: "toha"
 # For any more details, you can check the official documentation: https://gohugo.io/content-management/multilingual/
 languages:
   br:
-    baseURL: http://localhost:1313/br
+    baseURL: https://renandev.netlify.app/br
     languageName: Português
     weight: 1
 
   en:
-    baseURL: https://example.com/en
+    baseURL: https://renandev.netlify.app/en
     languageName: English
     weight: 2
 
