@@ -26,17 +26,17 @@ skills:
     summary: "Capaz de criar aplicações para Internet das Coisas IoT, utilizando o protocolo MQTT. Além de integrar com diversas apis, e utilizar placas de prototipação com o ESP8266 e Arduino."
     url: "https://nodered.org/"
 
-  - name: Docker
+  - name: Docker - WIP
     icon: "images/skills/docker.svg"
     summary: "Capaz de escrever aplicações que executam em contêiners. Além disso escrever aplicações com foco em micro serviços"
     url: "https://www.docker.com/"
 
-  - name: Kubernetes
+  - name: Kubernetes - WIP
     icon: "images/skills/kubernetes.png"
     summary: "Capaz de implantar e gerenciar aplicativos no Kubernetes. Experiência em escrever controladores Kubernetes para CRDs."
     url: "https://kubernetes.io/"
 
-  - name: Cloud Computing
+  - name: Cloud Computing - WIP
     icon: "images/skills/cloud.png"
     summary: "Experiência com a nuvem Heroku"
 
