@@ -1,6 +1,6 @@
 baseURL: http://example.org/
 languageCode: en-us
-title: "Renan - Full Stack"
+title: "Renan - Dev"
 theme: "toha"
 
 # Manage languages
@@ -8,16 +8,18 @@ theme: "toha"
 languages:
   br:
     baseURL: https://renandev.netlify.app/br
+    contentDir: content/br
     languageName: Português
     weight: 1
 
   en:
     baseURL: https://renandev.netlify.app/en
+    contentDir: content/en
     languageName: English
     weight: 2
 
 # Force a locale to be use, really useful to develop the application ! Should be commented in production, the "weight" should rocks.
-# DefaultContentLanguage: br
+#DefaultContentLanguage: br
 
 # Allow raw html in markdown file
 markup:
@@ -55,7 +57,7 @@ params:
   gitRepo: https://github.com/hossainemruz/toha-example-site
 
   # specify whether you want to write blog post or not
-  enableBlogPost: false
+  enableBlogPost: true
 
   # specify whether you want to show Table of Contents in reading page
   enableTOC: true

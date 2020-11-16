@@ -2,12 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4bfdcce1-e787-48e4-ae42-594ea27e9b81" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/content/br/posts/_index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/br/posts/iot/_index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/br/posts/iot/começando-com-internet-of-things.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/br/posts/iot/irrigacao-para-horta-organica-com-node-red-e-esp8266.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/themes/toha/i18n/br.toml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/br/sections/about.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/data/br/sections/about.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/br/projects" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/my-first-post.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/projects" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/br/sections/skills.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/data/br/sections/skills.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/toha" beforeDir="false" afterPath="$PROJECT_DIR$/themes/toha" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/toha/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/toha/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/toha/exampleSite/config.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/toha/exampleSite/config.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/toha/layouts/partials/cards/post.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/toha/layouts/partials/cards/post.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/toha/layouts/partials/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/toha/layouts/partials/footer.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,6 +26,10 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="KubernetesApiPersistence">
+    <option name="context" value="docker-desktop" />
+    <option name="namespace" value="default" />
   </component>
   <component name="ProjectId" id="1jF7ujHJbks4WpBzqAxSMSvAn6e" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -29,19 +42,20 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="ignore_missing_gitignore" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/themes/toha/i18n" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Projetos\my-personal-site\content" />
-      <recent name="C:\Projetos\my-personal-site\data\br\posts" />
-      <recent name="C:\Projetos\my-personal-site\data\br" />
-      <recent name="C:\Projetos\my-personal-site\content\br" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Projetos\my-personal-site\themes\toha\i18n" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Projetos\my-personal-site\content\br\posts\iot" />
+      <recent name="C:\Projetos\my-personal-site\content\br" />
+      <recent name="C:\Projetos\my-personal-site\content\posts" />
+      <recent name="C:\Projetos\my-personal-site\content" />
+      <recent name="C:\Projetos\my-personal-site\data\br" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -55,6 +69,11 @@
       <workItem from="1603388212703" duration="22828000" />
       <workItem from="1603459667405" duration="8088000" />
       <workItem from="1603471217962" duration="79000" />
+      <workItem from="1603471426315" duration="848000" />
+      <workItem from="1604584432949" duration="17319000" />
+      <workItem from="1604671865693" duration="440000" />
+      <workItem from="1605034423131" duration="153000" />
+      <workItem from="1605542267428" duration="1171000" />
     </task>
     <servers />
   </component>
@@ -66,5 +85,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="246" y="310" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1603459777168" />
+    <state x="274" y="275" key="FileChooserDialogImpl" timestamp="1603473212902">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="274" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603473212901" />
+    <state x="143" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1604589370222">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="143" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1604589370222" />
   </component>
 </project>

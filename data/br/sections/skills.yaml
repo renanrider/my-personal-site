@@ -51,7 +51,7 @@ skills:
 
   - name: Linux
     icon: "images/skills/linux.png"
-    summary: "Usando como sistema operacional principal por muito tempo. Capaz de utilizar o terminal sem pronlemas."
+    summary: "Usado como sistema operacional principal por muito tempo, apenas migrando para o Windows por questões de software para uso específico no Windows (Unity). Capaz de utilizar o terminal sem problemas."
 
   - name: Git
     icon: "images/skills/git.png"
