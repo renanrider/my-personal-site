@@ -1,12 +1,12 @@
 ---
-title: "Começando com Internet of Things"
-date: 2020-11-05T06:00:23+06:00
+title: 'Começando com Internet of Things'
+date: 2020-11-15T06:00:23+06:00
 author:
   name: Renan
-  image: /images/avatar.jpg
+  image: /images/images/posts/iot.jpg
 hero: /images/images/posts/iot.jpg
-description: Uma breve introdução ao mundo do IoT 
-theme : Toha
+description: Uma breve introdução ao mundo do IoT
+theme: Toha
 menu:
   sidebar:
     name: Começando com Internet of Things
@@ -29,12 +29,10 @@ menu:
 <div class="row">
 <div class="col-6">
 
-
 <p><a href="https://www.youtube.com/watch?v=3Ve9aLnAALM">Philips Hue</a>
    É um sistema de iluminação sem fio,  que permite controlar facilmente a iluminação e criar o ambiente certo para cada momento. Dê vida à sua casa inteligente com a luz mais conectada do mundo.
    Preço: R$ 1034,00  
 </p>
-
 
 <h2>Integrações</h2>
 <p>Philips Hue funciona com diversos dispositivos inteligentes, possibilitando a integração com diversos serviços, o que é bem interessante, pois podemos por exemplo utilizar o aplicativo do IFTTT que envia um comando para ligar as lâmpadas quando estivermos chegando em casa.</p>
@@ -68,7 +66,6 @@ menu:
  {{< figure class="border-0" src="/br/images/images/posts/hue.png" title="Philips HUE" >}}
 </div>
 </div>
-  
 
 <div class="row">
 <div class="col-6">
@@ -82,7 +79,6 @@ menu:
 <div class="col-6">
 {{< figure class="border-0 w-50" src="/br/images/images/posts/igui.png" title="Aplicativo Igui" >}}
 </div>
-
 
 </div>
 
@@ -115,7 +111,6 @@ menu:
 </div>
 </div>
 
-
 <div class="row">
 <div class="col-6">
 <h2>NodeMCU Esp8266</h2>
@@ -127,7 +122,6 @@ menu:
 {{< figure class="border-0 w-50" src="/br/images/images/posts/nodemcu.png">}}
 </div>
 </div>
-
 
 <h2>Sensores e Atuadores</h2>
 
@@ -155,7 +149,6 @@ menu:
 {{< figure class="border-0 w-50" src="/br/images/images/posts/fs90.png">}}
 </div>
 </div>
-
 
 <h2>Soluções para IoT</h2>
 

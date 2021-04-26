@@ -2,22 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4bfdcce1-e787-48e4-ae42-594ea27e9b81" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/content/br/posts/_index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/br/posts/iot/_index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/br/posts/iot/começando-com-internet-of-things.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/br/posts/iot/irrigacao-para-horta-organica-com-node-red-e-esp8266.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/themes/toha/i18n/br.toml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/br/projects" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/my-first-post.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/projects" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/br/sections/skills.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/data/br/sections/skills.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/br/posts/iot/começando-com-internet-of-things.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/br/posts/iot/começando-com-internet-of-things.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/br/posts/iot/irrigacao-para-horta-organica-com-node-red-e-esp8266.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/br/posts/iot/irrigacao-para-horta-organica-com-node-red-e-esp8266.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/toha" beforeDir="false" afterPath="$PROJECT_DIR$/themes/toha" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/toha/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/toha/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/toha/exampleSite/config.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/toha/exampleSite/config.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/toha/layouts/partials/cards/post.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/toha/layouts/partials/cards/post.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/toha/layouts/partials/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/toha/layouts/partials/footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/toha/layouts/partials/helpers/get-hero.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/toha/layouts/partials/helpers/get-hero.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,15 +41,15 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Projetos\my-personal-site\themes\toha\i18n" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Projetos\my-personal-site\content\br\posts\iot" />
       <recent name="C:\Projetos\my-personal-site\content\br" />
       <recent name="C:\Projetos\my-personal-site\content\posts" />
       <recent name="C:\Projetos\my-personal-site\content" />
       <recent name="C:\Projetos\my-personal-site\data\br" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Projetos\my-personal-site\themes\toha\i18n" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -73,7 +67,7 @@
       <workItem from="1604584432949" duration="17319000" />
       <workItem from="1604671865693" duration="440000" />
       <workItem from="1605034423131" duration="153000" />
-      <workItem from="1605542267428" duration="1171000" />
+      <workItem from="1605542267428" duration="4637000" />
     </task>
     <servers />
   </component>

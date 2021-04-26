@@ -1,6 +1,7 @@
 ---
 title: "Irrigação para horta orgânica com Node-Red e Esp8266"
 date: 2020-11-05T06:00:23+06:00
+draft: true
 author:
   name: Renan
   image: /images/avatar.jpg

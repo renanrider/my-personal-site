@@ -7,13 +7,32 @@ section:
   showOnNavbar: true
   template: sections/experiences.html
   # Can optionally hide the title in sections
-  # hideTitle: true 
+  # hideTitle: true
 
 # Your experiences
 experiences:
   - company:
+      name: XPerience Extended Reality
+      url: 'https://xperiencexr.com/pt/br/'
+      location: São Paulo - Brasil
+      # company overview
+      overview: Edtech especializada em ensino imersivo.
+    positions:
+      - designation: Desenvolvedor Front-End
+        start: Dezembro de 2020
+        end:
+        # don't provide end date if you are currently working there. It will be replaced by "Present"
+        # end: Dec 2020
+        # give some points about what was your responsibilities at the company.
+        responsibilities:
+          - Desenvolvimento de sistemas web e api restful.
+          - Arquitetura de sistema para comunicação entre plataforma e aplicativo de realidade aumentada.
+          - UI/UX.
+          - Atualizações de WebSites + SEO.
+
+  - company:
       name: Ideas Farm
-      url: "https://ideasfarm.com.br/"
+      url: 'https://ideasfarm.com.br/'
       location: São Paulo - Brasil
       # company overview
       overview: Empresa referência nacional de desenvolvimento de aplicativos em realidade aumentada.
@@ -31,7 +50,7 @@ experiences:
 
   - company:
       name: Happy Code.
-      url: "https://happycodeschool.com/"
+      url: 'https://happycodeschool.com/'
       location: São Paulo - Brasil
       overview: A Happy Code é uma escola de programação, desenvolvimento de games, aplicativos para crianças de 6 à 17 anos, que se destacou no mercado nacional por utilizar a metodologia STEAM é um acrônimo em inglês para as disciplinas Science, Technology, Engineering, Arts e Mathematics.
     positions:
@@ -45,9 +64,9 @@ experiences:
 
   - company:
       name: Conversion
-      url: "https://www.conversion.com.br"
+      url: 'https://www.conversion.com.br'
       location: São Paulo - Brasil
-      overview: ge des ingénieurs stagiaires du monde entier.
+      overview: Mais do que uma agência, somos o parceiro de negócios de empresas que buscam inovação e performance para estarem um passo à frente na transformação digital.
     positions:
       - designation: Estagiário Front-End
         start: Fevereiro de 2015
@@ -60,9 +79,9 @@ experiences:
 
   - company:
       name: B2BR
-      url: "B2BR"
+      url: 'B2BR'
       location: Osasco, SP - Brasil
-      overview: ge des ingénieurs stagiaires du monde entier.
+      overview:
     positions:
       - designation: Operador Nível 1 IBM z Systems z/OS
         start: Junho de 2012
@@ -75,9 +94,9 @@ experiences:
 
   - company:
       name: Probank
-      url: "B2BR"
+      url: 'B2BR'
       location: Osasco, SP - Brasil
-      overview: ge des ingénieurs stagiaires du monde entier.
+      overview:
     positions:
       - designation: Operador Nível 1 IBM z Systems z/OS
         start: Setembro de 2011

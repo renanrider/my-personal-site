@@ -8,14 +8,14 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Desenvolvedor Full Stack
+designation: Desenvolvedor Front-End
 # your company information
 company:
-  name: Ideas Farm.
-  url: "https://www.example.com"
+  name: XPerience Extended Reality.
+  url: 'https://xperiencexr.com/pt/br/'
 
 # your resume. this file path should be relative to you "static" directory
-resume: "https://renanrider.github.io/cv/index.html"
+resume: 'https://renanrider.github.io/cv/index.html'
 
 # a summary about you
 summary: 'Sou um desenvolvedor apaixonado por programação desde que conheci esse universo magnífico. Tenho 3 anos de experiência trabalhando profissionalmente com programação, mas programo por hobbie faz uns 8 anos. No meu último trabalho, fiz muitas interações em realidade aumentada, que foram vistas por centenas de pessoas. Às vezes, trabalho em alguns projetos pessoais, como criar games e filtros para redes sociais e etc.'
@@ -24,20 +24,20 @@ summary: 'Sou um desenvolvedor apaixonado por programação desde que conheci es
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
   - name: Email
-    icon: "fas fa-envelope"
-    url: "renansmit90@gmail.com"
+    icon: 'fas fa-envelope'
+    url: 'renansmit@gmail.com'
 
   - name: Github
-    icon: "fab fa-github"
-    url: "https://github.com/renanrider"
+    icon: 'fab fa-github'
+    url: 'https://github.com/renanrider'
 
   - name: Stackoverflow
-    icon: "fab fa-stack-overflow"
-    url: "https://stackoverflow.com/users/6876424/renanrider"
+    icon: 'fab fa-stack-overflow'
+    url: 'https://stackoverflow.com/users/6876424/renanrider'
 
   - name: LinkedIn
-    icon: "fab fa-linkedin"
-    url: "https://www.linkedin.com/in/renanneves"
+    icon: 'fab fa-linkedin'
+    url: 'https://www.linkedin.com/in/renanneves'
 
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.

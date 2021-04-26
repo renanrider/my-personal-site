@@ -1,19 +1,14 @@
-name: "Renan"
-nickname: "Renan"
-image: "images/avatar.png"
+name: 'Renan'
+nickname: 'Renan'
+image: 'images/avatar.png'
 
 # greeting message before your name. it will default to "Hi! I am" if not provided
-greeting: "Olá, sou o"
+greeting: 'Olá, sou o'
 
 # give your some contact information. they will be used in the footer
 contactInfo:
-  email: "renansmit90@gmail.com.com"
-  phone: "+5511997947210"
+  email: 'renansmit@gmail.com.com'
+  phone: '+5511997947210'
 
 # some summary about what you do
 summary:
-  - Programador Javascript
-  - Programador C#
-  - Desenvolvedor Node.JS
-  - Desenvolvedor de games Indie
-  - Desenvolvedor Ionic
