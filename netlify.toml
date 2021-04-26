@@ -4,4 +4,10 @@
 
   [build.environment]
     HUGO_VERSION = "0.73.0"
-    HUGO_BASEURL = "/br"
+    HUGO_BASEURL = "/"
+
+  [[redirects]]
+  from = "/"
+  to = "/br"
+  status = 200
+  force = false
