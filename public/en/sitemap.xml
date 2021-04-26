@@ -3,10 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://renandev.netlify.app/en/posts/my-first-post/</loc>
-  </url>
-  
-  <url>
     <loc>https://renandev.netlify.app/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -18,10 +14,6 @@
                 hreflang="en"
                 href="https://renandev.netlify.app/en/categories/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://renandev.netlify.app/en/posts/</loc>
   </url>
   
   <url>
