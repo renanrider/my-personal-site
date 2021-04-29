@@ -10,7 +10,7 @@
 <channel>
 	<title>Renan &#8211; DEV</title>
 	<atom:link href="http://localhost/wordpress/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<link>https://renandev.netlify.app</link>
 	<description></description>
 	<lastBuildDate>Thu, 29 Apr 2021 16:15:58 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,13 +21,13 @@
 	<generator>https://wordpress.org/?v=5.7.1</generator>
 	<item>
 		<title>Templates para Realidade Aumentada</title>
-		<link>/2021/04/29/templates-para-realidade-aumentada/</link>
-					<comments>/2021/04/29/templates-para-realidade-aumentada/#respond</comments>
+		<link>https://renandev.netlify.app/2021/04/29/templates-para-realidade-aumentada/</link>
+					<comments>https://renandev.netlify.app/2021/04/29/templates-para-realidade-aumentada/#respond</comments>
 		
 		<dc:creator><![CDATA[trex]]></dc:creator>
 		<pubDate>Thu, 29 Apr 2021 15:20:55 +0000</pubDate>
 				<category><![CDATA[Profissional]]></category>
-		<guid isPermaLink="false">/?p=329</guid>
+		<guid isPermaLink="false">https://renandev.netlify.app/?p=329</guid>
 
 					<description><![CDATA[Templates para Realidade Aumentada Empresa &#8211; Ideas Farm Problema: Necessidade de reutilização de interações de realidade aumentada Solução: Quando comecei a participar deste projeto, a empresa tinha muitos módulos de realidades prontos, porém percebi a dificuldade de colocar todos os módulos em uso para o usuário final. Entendi como funcionava [&#8230;]]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="329" class="elementor elementor-329" data-elementor-settings="[]">
@@ -98,20 +98,20 @@
 					</div>
 		]]></content:encoded>
 					
-					<wfw:commentRss>/2021/04/29/templates-para-realidade-aumentada/feed/</wfw:commentRss>
+					<wfw:commentRss>https://renandev.netlify.app/2021/04/29/templates-para-realidade-aumentada/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Chaves &#8211; Efeito Instagram</title>
-		<link>/2021/04/29/chaves-efeito-instagram/</link>
-					<comments>/2021/04/29/chaves-efeito-instagram/#respond</comments>
+		<link>https://renandev.netlify.app/2021/04/29/chaves-efeito-instagram/</link>
+					<comments>https://renandev.netlify.app/2021/04/29/chaves-efeito-instagram/#respond</comments>
 		
 		<dc:creator><![CDATA[trex]]></dc:creator>
 		<pubDate>Thu, 29 Apr 2021 14:32:14 +0000</pubDate>
 				<category><![CDATA[Hobby]]></category>
-		<guid isPermaLink="false">/?p=294</guid>
+		<guid isPermaLink="false">https://renandev.netlify.app/?p=294</guid>
 
 					<description><![CDATA[Chaves El Chavo &#8211; Efeito Instagram Problema: Aprender a utilizar a ferramenta Spark AR Solução: Quando o Spark AR ainda estava nas suas primeiras versões, resolvi aprender como publicar um efeito no Instagram, e aí surgiu a ideia desse efeito, que já teve milhares de acessos. Ver no Instagram Ver [&#8230;]]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="294" class="elementor elementor-294" data-elementor-settings="[]">
@@ -162,12 +162,12 @@
 				<div class="elementor-element elementor-element-ac38ef2 elementor-widget elementor-widget-gallery" data-id="ac38ef2" data-element_type="widget" data-settings="{&quot;aspect_ratio&quot;:&quot;4:3&quot;,&quot;gallery_layout&quot;:&quot;grid&quot;,&quot;columns&quot;:4,&quot;columns_tablet&quot;:2,&quot;columns_mobile&quot;:1,&quot;gap&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;gap_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;gap_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;link_to&quot;:&quot;file&quot;,&quot;overlay_background&quot;:&quot;yes&quot;,&quot;content_hover_animation&quot;:&quot;fade-in&quot;}" data-widget_type="gallery.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-gallery__container">
-							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="/wp-content/uploads/2021/04/sparkElChavo.png" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-ac38ef2" data-elementor-lightbox-title="sparkElChavo">
-					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="/wp-content/uploads/2021/04/sparkElChavo-300x114.png" data-width="300" data-height="114" alt="" ></div>
+							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="https://renandev.netlify.app/wp-content/uploads/2021/04/sparkElChavo.png" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-ac38ef2" data-elementor-lightbox-title="sparkElChavo">
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="https://renandev.netlify.app/wp-content/uploads/2021/04/sparkElChavo-300x114.png" data-width="300" data-height="114" alt="" ></div>
 										<div class="elementor-gallery-item__overlay"></div>
 														</a>
-							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="/wp-content/uploads/2021/04/chavo.png" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-ac38ef2" data-elementor-lightbox-title="chavo">
-					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="/wp-content/uploads/2021/04/chavo-300x300.png" data-width="300" data-height="300" alt="" ></div>
+							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="https://renandev.netlify.app/wp-content/uploads/2021/04/chavo.png" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-ac38ef2" data-elementor-lightbox-title="chavo">
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="https://renandev.netlify.app/wp-content/uploads/2021/04/chavo-300x300.png" data-width="300" data-height="300" alt="" ></div>
 										<div class="elementor-gallery-item__overlay"></div>
 														</a>
 					</div>
@@ -206,20 +206,20 @@
 					</div>
 		]]></content:encoded>
 					
-					<wfw:commentRss>/2021/04/29/chaves-efeito-instagram/feed/</wfw:commentRss>
+					<wfw:commentRss>https://renandev.netlify.app/2021/04/29/chaves-efeito-instagram/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Casa Fácil</title>
-		<link>/2021/04/29/casa-facil/</link>
-					<comments>/2021/04/29/casa-facil/#respond</comments>
+		<link>https://renandev.netlify.app/2021/04/29/casa-facil/</link>
+					<comments>https://renandev.netlify.app/2021/04/29/casa-facil/#respond</comments>
 		
 		<dc:creator><![CDATA[trex]]></dc:creator>
 		<pubDate>Thu, 29 Apr 2021 05:15:07 +0000</pubDate>
 				<category><![CDATA[Pessoal]]></category>
-		<guid isPermaLink="false">/?p=260</guid>
+		<guid isPermaLink="false">https://renandev.netlify.app/?p=260</guid>
 
 					<description><![CDATA[Casa Fácil &#8211; Aplicativo Empresa &#8211; Ideas Farm Problema: A ideia surgiu apenas para estudo, porém pretendo lançar em um futuro próximo. Solução: É um aplicativo para anunciar imóveis de maneira simples, ao analisar aplicativos que existem no mercado, foi observado a dificuldade e a burocracia para anunciar um imóvel, [&#8230;]]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="260" class="elementor elementor-260" data-elementor-settings="[]">
@@ -276,16 +276,16 @@
 				<div class="elementor-element elementor-element-9f2920d elementor-widget elementor-widget-gallery" data-id="9f2920d" data-element_type="widget" data-settings="{&quot;aspect_ratio&quot;:&quot;4:3&quot;,&quot;gallery_layout&quot;:&quot;grid&quot;,&quot;columns&quot;:4,&quot;columns_tablet&quot;:2,&quot;columns_mobile&quot;:1,&quot;gap&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;gap_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;gap_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;link_to&quot;:&quot;file&quot;,&quot;overlay_background&quot;:&quot;yes&quot;,&quot;content_hover_animation&quot;:&quot;fade-in&quot;}" data-widget_type="gallery.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-gallery__container">
-							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="/wp-content/uploads/2021/04/casa1-1.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-9f2920d" data-elementor-lightbox-title="casa1">
-					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="/wp-content/uploads/2021/04/casa1-1-300x200.jpg" data-width="300" data-height="200" alt="" ></div>
+							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="https://renandev.netlify.app/wp-content/uploads/2021/04/casa1-1.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-9f2920d" data-elementor-lightbox-title="casa1">
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="https://renandev.netlify.app/wp-content/uploads/2021/04/casa1-1-300x200.jpg" data-width="300" data-height="200" alt="" ></div>
 										<div class="elementor-gallery-item__overlay"></div>
 														</a>
-							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="/wp-content/uploads/2021/04/casa2.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-9f2920d" data-elementor-lightbox-title="casa2">
-					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="/wp-content/uploads/2021/04/casa2-300x216.jpg" data-width="300" data-height="216" alt="" ></div>
+							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="https://renandev.netlify.app/wp-content/uploads/2021/04/casa2.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-9f2920d" data-elementor-lightbox-title="casa2">
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="https://renandev.netlify.app/wp-content/uploads/2021/04/casa2-300x216.jpg" data-width="300" data-height="216" alt="" ></div>
 										<div class="elementor-gallery-item__overlay"></div>
 														</a>
-							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="/wp-content/uploads/2021/04/casa3.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-9f2920d" data-elementor-lightbox-title="casa3">
-					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="/wp-content/uploads/2021/04/casa3-300x200.jpg" data-width="300" data-height="200" alt="" ></div>
+							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="https://renandev.netlify.app/wp-content/uploads/2021/04/casa3.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-9f2920d" data-elementor-lightbox-title="casa3">
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="https://renandev.netlify.app/wp-content/uploads/2021/04/casa3-300x200.jpg" data-width="300" data-height="200" alt="" ></div>
 										<div class="elementor-gallery-item__overlay"></div>
 														</a>
 					</div>
@@ -313,20 +313,20 @@
 					</div>
 		]]></content:encoded>
 					
-					<wfw:commentRss>/2021/04/29/casa-facil/feed/</wfw:commentRss>
+					<wfw:commentRss>https://renandev.netlify.app/2021/04/29/casa-facil/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Otimização de SEO + Site</title>
-		<link>/2021/04/29/otimizacao-de-seo-site/</link>
-					<comments>/2021/04/29/otimizacao-de-seo-site/#respond</comments>
+		<link>https://renandev.netlify.app/2021/04/29/otimizacao-de-seo-site/</link>
+					<comments>https://renandev.netlify.app/2021/04/29/otimizacao-de-seo-site/#respond</comments>
 		
 		<dc:creator><![CDATA[trex]]></dc:creator>
 		<pubDate>Thu, 29 Apr 2021 05:07:30 +0000</pubDate>
 				<category><![CDATA[Profissional]]></category>
-		<guid isPermaLink="false">/?p=250</guid>
+		<guid isPermaLink="false">https://renandev.netlify.app/?p=250</guid>
 
 					<description><![CDATA[Otimização de SEO + Site Empresa &#8211; Ideas Farm Problema: O site não estava otimizado para os motores de buscas. Solução: O objetivo era melhorar o site existente e criar diversas páginas explicando o produto principal do cliente. Foi desenvolvido uma estratégia de otimização Search Engine Optimization e reestruturação de [&#8230;]]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="250" class="elementor elementor-250" data-elementor-settings="[]">
@@ -383,16 +383,16 @@
 				<div class="elementor-element elementor-element-f49f513 elementor-widget elementor-widget-gallery" data-id="f49f513" data-element_type="widget" data-settings="{&quot;aspect_ratio&quot;:&quot;4:3&quot;,&quot;gallery_layout&quot;:&quot;grid&quot;,&quot;columns&quot;:4,&quot;columns_tablet&quot;:2,&quot;columns_mobile&quot;:1,&quot;gap&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;gap_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;gap_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;link_to&quot;:&quot;file&quot;,&quot;overlay_background&quot;:&quot;yes&quot;,&quot;content_hover_animation&quot;:&quot;fade-in&quot;}" data-widget_type="gallery.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-gallery__container">
-							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="/wp-content/uploads/2021/04/ideasfarmsite-1.png" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-f49f513" data-elementor-lightbox-title="ideasfarmsite">
-					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="/wp-content/uploads/2021/04/ideasfarmsite-1-300x147.png" data-width="300" data-height="147" alt="" ></div>
+							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="https://renandev.netlify.app/wp-content/uploads/2021/04/ideasfarmsite-1.png" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-f49f513" data-elementor-lightbox-title="ideasfarmsite">
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="https://renandev.netlify.app/wp-content/uploads/2021/04/ideasfarmsite-1-300x147.png" data-width="300" data-height="147" alt="" ></div>
 										<div class="elementor-gallery-item__overlay"></div>
 														</a>
-							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="/wp-content/uploads/2021/04/ideas-farm-google.png" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-f49f513" data-elementor-lightbox-title="ideas-farm-google">
-					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="/wp-content/uploads/2021/04/ideas-farm-google-300x215.png" data-width="300" data-height="215" alt="" ></div>
+							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="https://renandev.netlify.app/wp-content/uploads/2021/04/ideas-farm-google.png" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-f49f513" data-elementor-lightbox-title="ideas-farm-google">
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="https://renandev.netlify.app/wp-content/uploads/2021/04/ideas-farm-google-300x215.png" data-width="300" data-height="215" alt="" ></div>
 										<div class="elementor-gallery-item__overlay"></div>
 														</a>
-							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="/wp-content/uploads/2021/04/ideas-farm-google1.png" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-f49f513" data-elementor-lightbox-title="ideas-farm-google1">
-					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="/wp-content/uploads/2021/04/ideas-farm-google1-300x203.png" data-width="300" data-height="203" alt="" ></div>
+							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="https://renandev.netlify.app/wp-content/uploads/2021/04/ideas-farm-google1.png" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-f49f513" data-elementor-lightbox-title="ideas-farm-google1">
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="https://renandev.netlify.app/wp-content/uploads/2021/04/ideas-farm-google1-300x203.png" data-width="300" data-height="203" alt="" ></div>
 										<div class="elementor-gallery-item__overlay"></div>
 														</a>
 					</div>
@@ -420,20 +420,20 @@
 					</div>
 		]]></content:encoded>
 					
-					<wfw:commentRss>/2021/04/29/otimizacao-de-seo-site/feed/</wfw:commentRss>
+					<wfw:commentRss>https://renandev.netlify.app/2021/04/29/otimizacao-de-seo-site/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Virtual Try-On Eótica</title>
-		<link>/2021/04/29/virtual-try-on-eotica/</link>
-					<comments>/2021/04/29/virtual-try-on-eotica/#respond</comments>
+		<link>https://renandev.netlify.app/2021/04/29/virtual-try-on-eotica/</link>
+					<comments>https://renandev.netlify.app/2021/04/29/virtual-try-on-eotica/#respond</comments>
 		
 		<dc:creator><![CDATA[trex]]></dc:creator>
 		<pubDate>Thu, 29 Apr 2021 05:03:02 +0000</pubDate>
 				<category><![CDATA[Profissional]]></category>
-		<guid isPermaLink="false">/?p=240</guid>
+		<guid isPermaLink="false">https://renandev.netlify.app/?p=240</guid>
 
 					<description><![CDATA[Virtual Try-On Eótica Empresa &#8211; Ideas Farm Problema: Diminuir a troca de óculos comprados online Solução: Foi criado uma aplicação web que utiliza realidade aumentada para inserir diversos modelos de óculos virtual no rosto do cliente, motivando o cliente a efetuar a compra e evitando devoluções.]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="240" class="elementor elementor-240" data-elementor-settings="[]">
@@ -490,8 +490,8 @@
 				<div class="elementor-element elementor-element-b4ca6a0 elementor-widget elementor-widget-gallery" data-id="b4ca6a0" data-element_type="widget" data-settings="{&quot;aspect_ratio&quot;:&quot;4:3&quot;,&quot;gallery_layout&quot;:&quot;grid&quot;,&quot;columns&quot;:4,&quot;columns_tablet&quot;:2,&quot;columns_mobile&quot;:1,&quot;gap&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;gap_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;gap_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;link_to&quot;:&quot;file&quot;,&quot;overlay_background&quot;:&quot;yes&quot;,&quot;content_hover_animation&quot;:&quot;fade-in&quot;}" data-widget_type="gallery.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-gallery__container">
-							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="/wp-content/uploads/2021/04/e-otica-1.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-b4ca6a0" data-elementor-lightbox-title="e-otica-1">
-					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="/wp-content/uploads/2021/04/e-otica-1-300x232.jpg" data-width="300" data-height="232" alt="" ></div>
+							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="https://renandev.netlify.app/wp-content/uploads/2021/04/e-otica-1.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-b4ca6a0" data-elementor-lightbox-title="e-otica-1">
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="https://renandev.netlify.app/wp-content/uploads/2021/04/e-otica-1-300x232.jpg" data-width="300" data-height="232" alt="" ></div>
 										<div class="elementor-gallery-item__overlay"></div>
 														</a>
 					</div>
@@ -508,20 +508,20 @@
 					</div>
 		]]></content:encoded>
 					
-					<wfw:commentRss>/2021/04/29/virtual-try-on-eotica/feed/</wfw:commentRss>
+					<wfw:commentRss>https://renandev.netlify.app/2021/04/29/virtual-try-on-eotica/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Blog Viajanet</title>
-		<link>/2021/04/29/blog-viajanet/</link>
-					<comments>/2021/04/29/blog-viajanet/#respond</comments>
+		<link>https://renandev.netlify.app/2021/04/29/blog-viajanet/</link>
+					<comments>https://renandev.netlify.app/2021/04/29/blog-viajanet/#respond</comments>
 		
 		<dc:creator><![CDATA[trex]]></dc:creator>
 		<pubDate>Thu, 29 Apr 2021 04:55:21 +0000</pubDate>
 				<category><![CDATA[Profissional]]></category>
-		<guid isPermaLink="false">/?p=232</guid>
+		<guid isPermaLink="false">https://renandev.netlify.app/?p=232</guid>
 
 					<description><![CDATA[Blog Viajanet Empresa &#8211; Conversion Problema: Criar um blog que utilizasse uma plataforma simples para os redatores com foco em SEO. Solução: O objetivo era criar um blog que utilizasse uma plataforma simples para os redatores com foco em SEO. A plataforma escolhida foi o WordPress por permitir criar várias [&#8230;]]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="232" class="elementor elementor-232" data-elementor-settings="[]">
@@ -578,12 +578,12 @@
 				<div class="elementor-element elementor-element-469eca7 elementor-widget elementor-widget-gallery" data-id="469eca7" data-element_type="widget" data-settings="{&quot;aspect_ratio&quot;:&quot;4:3&quot;,&quot;gallery_layout&quot;:&quot;grid&quot;,&quot;columns&quot;:4,&quot;columns_tablet&quot;:2,&quot;columns_mobile&quot;:1,&quot;gap&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;gap_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;gap_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;link_to&quot;:&quot;file&quot;,&quot;overlay_background&quot;:&quot;yes&quot;,&quot;content_hover_animation&quot;:&quot;fade-in&quot;}" data-widget_type="gallery.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-gallery__container">
-							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="/wp-content/uploads/2021/04/viajanet-blog-1.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-469eca7" data-elementor-lightbox-title="viajanet-blog">
-					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="/wp-content/uploads/2021/04/viajanet-blog-1-300x146.jpg" data-width="300" data-height="146" alt="" ></div>
+							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="https://renandev.netlify.app/wp-content/uploads/2021/04/viajanet-blog-1.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-469eca7" data-elementor-lightbox-title="viajanet-blog">
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="https://renandev.netlify.app/wp-content/uploads/2021/04/viajanet-blog-1-300x146.jpg" data-width="300" data-height="146" alt="" ></div>
 										<div class="elementor-gallery-item__overlay"></div>
 														</a>
-							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="/wp-content/uploads/2021/04/viajanet-blog-2.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-469eca7" data-elementor-lightbox-title="viajanet-blog-2">
-					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="/wp-content/uploads/2021/04/viajanet-blog-2-300x146.jpg" data-width="300" data-height="146" alt="" ></div>
+							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="https://renandev.netlify.app/wp-content/uploads/2021/04/viajanet-blog-2.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-469eca7" data-elementor-lightbox-title="viajanet-blog-2">
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="https://renandev.netlify.app/wp-content/uploads/2021/04/viajanet-blog-2-300x146.jpg" data-width="300" data-height="146" alt="" ></div>
 										<div class="elementor-gallery-item__overlay"></div>
 														</a>
 					</div>
@@ -611,20 +611,20 @@
 					</div>
 		]]></content:encoded>
 					
-					<wfw:commentRss>/2021/04/29/blog-viajanet/feed/</wfw:commentRss>
+					<wfw:commentRss>https://renandev.netlify.app/2021/04/29/blog-viajanet/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Tabloide Mágico Gazin</title>
-		<link>/2021/04/29/tabloide-magico-gazin/</link>
-					<comments>/2021/04/29/tabloide-magico-gazin/#respond</comments>
+		<link>https://renandev.netlify.app/2021/04/29/tabloide-magico-gazin/</link>
+					<comments>https://renandev.netlify.app/2021/04/29/tabloide-magico-gazin/#respond</comments>
 		
 		<dc:creator><![CDATA[trex]]></dc:creator>
 		<pubDate>Thu, 29 Apr 2021 04:47:31 +0000</pubDate>
 				<category><![CDATA[Profissional]]></category>
-		<guid isPermaLink="false">/?p=222</guid>
+		<guid isPermaLink="false">https://renandev.netlify.app/?p=222</guid>
 
 					<description><![CDATA[Tabloide Mágico Gazin Empresa &#8211; Ideas Farm Problema: Trazer interatividade para os tabloides que são distribuídos nas lojas de todo o Brasil. Solução: Foi criado um aplicativo que utiliza realidade aumentada para ler as páginas do tabloide e exibir interações de realidade aumentada, contendo videos, imagens detalhadas dos produtos e [&#8230;]]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="222" class="elementor elementor-222" data-elementor-settings="[]">
@@ -681,16 +681,16 @@
 				<div class="elementor-element elementor-element-0492aba elementor-widget elementor-widget-gallery" data-id="0492aba" data-element_type="widget" data-settings="{&quot;aspect_ratio&quot;:&quot;4:3&quot;,&quot;gallery_layout&quot;:&quot;grid&quot;,&quot;columns&quot;:4,&quot;columns_tablet&quot;:2,&quot;columns_mobile&quot;:1,&quot;gap&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;gap_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;gap_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;link_to&quot;:&quot;file&quot;,&quot;overlay_background&quot;:&quot;yes&quot;,&quot;content_hover_animation&quot;:&quot;fade-in&quot;}" data-widget_type="gallery.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-gallery__container">
-							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="/wp-content/uploads/2021/04/gazin1.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-0492aba" data-elementor-lightbox-title="gazin1">
-					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="/wp-content/uploads/2021/04/gazin1-300x231.jpg" data-width="300" data-height="231" alt="" ></div>
+							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="https://renandev.netlify.app/wp-content/uploads/2021/04/gazin1.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-0492aba" data-elementor-lightbox-title="gazin1">
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="https://renandev.netlify.app/wp-content/uploads/2021/04/gazin1-300x231.jpg" data-width="300" data-height="231" alt="" ></div>
 										<div class="elementor-gallery-item__overlay"></div>
 														</a>
-							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="/wp-content/uploads/2021/04/gazin2.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-0492aba" data-elementor-lightbox-title="gazin2">
-					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="/wp-content/uploads/2021/04/gazin2-300x204.jpg" data-width="300" data-height="204" alt="" ></div>
+							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="https://renandev.netlify.app/wp-content/uploads/2021/04/gazin2.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-0492aba" data-elementor-lightbox-title="gazin2">
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="https://renandev.netlify.app/wp-content/uploads/2021/04/gazin2-300x204.jpg" data-width="300" data-height="204" alt="" ></div>
 										<div class="elementor-gallery-item__overlay"></div>
 														</a>
-							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="/wp-content/uploads/2021/04/gazin3-1.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-0492aba" data-elementor-lightbox-title="gazin3">
-					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="/wp-content/uploads/2021/04/gazin3-1-300x291.jpg" data-width="300" data-height="291" alt="" ></div>
+							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="https://renandev.netlify.app/wp-content/uploads/2021/04/gazin3-1.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-0492aba" data-elementor-lightbox-title="gazin3">
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="https://renandev.netlify.app/wp-content/uploads/2021/04/gazin3-1-300x291.jpg" data-width="300" data-height="291" alt="" ></div>
 										<div class="elementor-gallery-item__overlay"></div>
 														</a>
 					</div>
@@ -748,20 +748,20 @@
 					</div>
 		]]></content:encoded>
 					
-					<wfw:commentRss>/2021/04/29/tabloide-magico-gazin/feed/</wfw:commentRss>
+					<wfw:commentRss>https://renandev.netlify.app/2021/04/29/tabloide-magico-gazin/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Calopsita Cantando — Aplicativo</title>
-		<link>/2021/04/29/calopsita-cantando-aplicativo/</link>
-					<comments>/2021/04/29/calopsita-cantando-aplicativo/#respond</comments>
+		<link>https://renandev.netlify.app/2021/04/29/calopsita-cantando-aplicativo/</link>
+					<comments>https://renandev.netlify.app/2021/04/29/calopsita-cantando-aplicativo/#respond</comments>
 		
 		<dc:creator><![CDATA[trex]]></dc:creator>
 		<pubDate>Thu, 29 Apr 2021 04:08:54 +0000</pubDate>
 				<category><![CDATA[Hobby]]></category>
-		<guid isPermaLink="false">/?p=164</guid>
+		<guid isPermaLink="false">https://renandev.netlify.app/?p=164</guid>
 
 					<description><![CDATA[Calopsita Cantando &#8211; Aplicativo Problema: Recriar um aplicativo já existente com outra tecnologia e ganhar popularidade na Play Store. Solução: É um aplicativo para ensinar calopsitas a cantar. A ideia do aplicativo surgiu quando ganhei uma calopsita e ela não cantava, procurei por algum aplicativo semelhante e não tinha nenhum [&#8230;]]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="164" class="elementor elementor-164" data-elementor-settings="[]">
@@ -812,20 +812,20 @@
 				<div class="elementor-element elementor-element-ceaa551 elementor-widget elementor-widget-gallery" data-id="ceaa551" data-element_type="widget" data-settings="{&quot;aspect_ratio&quot;:&quot;4:3&quot;,&quot;gallery_layout&quot;:&quot;grid&quot;,&quot;columns&quot;:4,&quot;columns_tablet&quot;:2,&quot;columns_mobile&quot;:1,&quot;gap&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;gap_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;gap_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;link_to&quot;:&quot;file&quot;,&quot;overlay_background&quot;:&quot;yes&quot;,&quot;content_hover_animation&quot;:&quot;fade-in&quot;}" data-widget_type="gallery.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-gallery__container">
-							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="/wp-content/uploads/2021/04/calopsita2.png" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-ceaa551" data-elementor-lightbox-title="calopsita2">
-					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="/wp-content/uploads/2021/04/calopsita2-169x300.png" data-width="169" data-height="300" alt="" ></div>
+							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="https://renandev.netlify.app/wp-content/uploads/2021/04/calopsita2.png" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-ceaa551" data-elementor-lightbox-title="calopsita2">
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="https://renandev.netlify.app/wp-content/uploads/2021/04/calopsita2-169x300.png" data-width="169" data-height="300" alt="" ></div>
 										<div class="elementor-gallery-item__overlay"></div>
 														</a>
-							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="/wp-content/uploads/2021/04/calopsita-1.png" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-ceaa551" data-elementor-lightbox-title="calopsita">
-					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="/wp-content/uploads/2021/04/calopsita-1-169x300.png" data-width="169" data-height="300" alt="" ></div>
+							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="https://renandev.netlify.app/wp-content/uploads/2021/04/calopsita-1.png" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-ceaa551" data-elementor-lightbox-title="calopsita">
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="https://renandev.netlify.app/wp-content/uploads/2021/04/calopsita-1-169x300.png" data-width="169" data-height="300" alt="" ></div>
 										<div class="elementor-gallery-item__overlay"></div>
 														</a>
-							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="/wp-content/uploads/2021/04/rating.png" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-ceaa551" data-elementor-lightbox-title="rating">
-					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="/wp-content/uploads/2021/04/rating-300x126.png" data-width="300" data-height="126" alt="" ></div>
+							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="https://renandev.netlify.app/wp-content/uploads/2021/04/rating.png" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-ceaa551" data-elementor-lightbox-title="rating">
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="https://renandev.netlify.app/wp-content/uploads/2021/04/rating-300x126.png" data-width="300" data-height="126" alt="" ></div>
 										<div class="elementor-gallery-item__overlay"></div>
 														</a>
-							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="/wp-content/uploads/2021/04/rating-app-2.png" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-ceaa551" data-elementor-lightbox-title="rating-app-2">
-					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="/wp-content/uploads/2021/04/rating-app-2-300x86.png" data-width="300" data-height="86" alt="" ></div>
+							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="https://renandev.netlify.app/wp-content/uploads/2021/04/rating-app-2.png" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-ceaa551" data-elementor-lightbox-title="rating-app-2">
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="https://renandev.netlify.app/wp-content/uploads/2021/04/rating-app-2-300x86.png" data-width="300" data-height="86" alt="" ></div>
 										<div class="elementor-gallery-item__overlay"></div>
 														</a>
 					</div>
@@ -859,21 +859,21 @@
 					</div>
 		]]></content:encoded>
 					
-					<wfw:commentRss>/2021/04/29/calopsita-cantando-aplicativo/feed/</wfw:commentRss>
+					<wfw:commentRss>https://renandev.netlify.app/2021/04/29/calopsita-cantando-aplicativo/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Cat Jump — Hyper Casual Game</title>
-		<link>/2021/04/29/cat-jump-hyper-casual-game/</link>
-					<comments>/2021/04/29/cat-jump-hyper-casual-game/#respond</comments>
+		<link>https://renandev.netlify.app/2021/04/29/cat-jump-hyper-casual-game/</link>
+					<comments>https://renandev.netlify.app/2021/04/29/cat-jump-hyper-casual-game/#respond</comments>
 		
 		<dc:creator><![CDATA[trex]]></dc:creator>
 		<pubDate>Thu, 29 Apr 2021 03:54:06 +0000</pubDate>
 				<category><![CDATA[Hobby]]></category>
 		<category><![CDATA[Pessoal]]></category>
-		<guid isPermaLink="false">/?p=148</guid>
+		<guid isPermaLink="false">https://renandev.netlify.app/?p=148</guid>
 
 					<description><![CDATA[Cat Jump — Hyper Casual Game Problema: A ideia surgiu após ler um livro sobre o estilo de jogos super casuais, aqueles que normalmente jogamos em fila do banco ou mesmo no metrô se segurando e jogando apenas com uma mão. Solução: O desafio era tanto em criar uma interface [&#8230;]]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="148" class="elementor elementor-148" data-elementor-settings="[]">
@@ -936,20 +936,20 @@
 				<div class="elementor-element elementor-element-f1ee7b3 elementor-widget elementor-widget-gallery" data-id="f1ee7b3" data-element_type="widget" data-settings="{&quot;aspect_ratio&quot;:&quot;4:3&quot;,&quot;gallery_layout&quot;:&quot;grid&quot;,&quot;columns&quot;:4,&quot;columns_tablet&quot;:2,&quot;columns_mobile&quot;:1,&quot;gap&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;gap_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;gap_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;link_to&quot;:&quot;file&quot;,&quot;overlay_background&quot;:&quot;yes&quot;,&quot;content_hover_animation&quot;:&quot;fade-in&quot;}" data-widget_type="gallery.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-gallery__container">
-							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="/wp-content/uploads/2021/04/catjump3.png" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-f1ee7b3" data-elementor-lightbox-title="catjump3">
-					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="/wp-content/uploads/2021/04/catjump3-169x300.png" data-width="169" data-height="300" alt="" ></div>
+							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="https://renandev.netlify.app/wp-content/uploads/2021/04/catjump3.png" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-f1ee7b3" data-elementor-lightbox-title="catjump3">
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="https://renandev.netlify.app/wp-content/uploads/2021/04/catjump3-169x300.png" data-width="169" data-height="300" alt="" ></div>
 										<div class="elementor-gallery-item__overlay"></div>
 														</a>
-							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="/wp-content/uploads/2021/04/catjump2.png" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-f1ee7b3" data-elementor-lightbox-title="catjump2">
-					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="/wp-content/uploads/2021/04/catjump2-169x300.png" data-width="169" data-height="300" alt="" ></div>
+							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="https://renandev.netlify.app/wp-content/uploads/2021/04/catjump2.png" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-f1ee7b3" data-elementor-lightbox-title="catjump2">
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="https://renandev.netlify.app/wp-content/uploads/2021/04/catjump2-169x300.png" data-width="169" data-height="300" alt="" ></div>
 										<div class="elementor-gallery-item__overlay"></div>
 														</a>
-							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="/wp-content/uploads/2021/04/catjump1.png" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-f1ee7b3" data-elementor-lightbox-title="catjump1">
-					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="/wp-content/uploads/2021/04/catjump1-169x300.png" data-width="169" data-height="300" alt="" ></div>
+							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="https://renandev.netlify.app/wp-content/uploads/2021/04/catjump1.png" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-f1ee7b3" data-elementor-lightbox-title="catjump1">
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="https://renandev.netlify.app/wp-content/uploads/2021/04/catjump1-169x300.png" data-width="169" data-height="300" alt="" ></div>
 										<div class="elementor-gallery-item__overlay"></div>
 														</a>
-							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="/wp-content/uploads/2021/04/catjump-1.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-f1ee7b3" data-elementor-lightbox-title="catjump">
-					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="/wp-content/uploads/2021/04/catjump-1-300x169.jpg" data-width="300" data-height="169" alt="" ></div>
+							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="https://renandev.netlify.app/wp-content/uploads/2021/04/catjump-1.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-f1ee7b3" data-elementor-lightbox-title="catjump">
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="https://renandev.netlify.app/wp-content/uploads/2021/04/catjump-1-300x169.jpg" data-width="300" data-height="169" alt="" ></div>
 										<div class="elementor-gallery-item__overlay"></div>
 														</a>
 					</div>
@@ -977,20 +977,20 @@
 					</div>
 		]]></content:encoded>
 					
-					<wfw:commentRss>/2021/04/29/cat-jump-hyper-casual-game/feed/</wfw:commentRss>
+					<wfw:commentRss>https://renandev.netlify.app/2021/04/29/cat-jump-hyper-casual-game/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Aplicativo de Realidade Aumentada Eclipse Cross Mitsubishi</title>
-		<link>/2021/04/29/aplicativo-de-realidade-aumentada-eclipse-cross-mitsubishi/</link>
-					<comments>/2021/04/29/aplicativo-de-realidade-aumentada-eclipse-cross-mitsubishi/#respond</comments>
+		<link>https://renandev.netlify.app/2021/04/29/aplicativo-de-realidade-aumentada-eclipse-cross-mitsubishi/</link>
+					<comments>https://renandev.netlify.app/2021/04/29/aplicativo-de-realidade-aumentada-eclipse-cross-mitsubishi/#respond</comments>
 		
 		<dc:creator><![CDATA[trex]]></dc:creator>
 		<pubDate>Thu, 29 Apr 2021 03:32:42 +0000</pubDate>
 				<category><![CDATA[Profissional]]></category>
-		<guid isPermaLink="false">/?p=126</guid>
+		<guid isPermaLink="false">https://renandev.netlify.app/?p=126</guid>
 
 					<description><![CDATA[Eclipse Cross Mitsubishi Empresa &#8211; Ideas Farm Problema: Demonstrar todas as tecnologias embarcadas do veículo dispensando o uso do manual do proprietário. Solução: Com o objetivo de ressaltar ainda mais as novas tecnologias e qualidades do Eclipse Cross 2019, a Mitsubishi buscou inovar o showroom. Trabalhando juntamente com a equipe [&#8230;]]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="126" class="elementor elementor-126" data-elementor-settings="[]">
@@ -1047,40 +1047,40 @@
 				<div class="elementor-element elementor-element-74bc552 elementor-widget elementor-widget-gallery" data-id="74bc552" data-element_type="widget" data-settings="{&quot;aspect_ratio&quot;:&quot;4:3&quot;,&quot;gallery_layout&quot;:&quot;grid&quot;,&quot;columns&quot;:4,&quot;columns_tablet&quot;:2,&quot;columns_mobile&quot;:1,&quot;gap&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;gap_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;gap_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;link_to&quot;:&quot;file&quot;,&quot;overlay_background&quot;:&quot;yes&quot;,&quot;content_hover_animation&quot;:&quot;fade-in&quot;}" data-widget_type="gallery.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-gallery__container">
-							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="/wp-content/uploads/2021/04/mitsubishi-4.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-74bc552" data-elementor-lightbox-title="mitsubishi-4">
-					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="/wp-content/uploads/2021/04/mitsubishi-4-300x215.jpg" data-width="300" data-height="215" alt="" ></div>
+							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="https://renandev.netlify.app/wp-content/uploads/2021/04/mitsubishi-4.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-74bc552" data-elementor-lightbox-title="mitsubishi-4">
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="https://renandev.netlify.app/wp-content/uploads/2021/04/mitsubishi-4-300x215.jpg" data-width="300" data-height="215" alt="" ></div>
 										<div class="elementor-gallery-item__overlay"></div>
 														</a>
-							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="/wp-content/uploads/2021/04/mitsubishi-3.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-74bc552" data-elementor-lightbox-title="mitsubishi-3">
-					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="/wp-content/uploads/2021/04/mitsubishi-3-237x300.jpg" data-width="237" data-height="300" alt="" ></div>
+							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="https://renandev.netlify.app/wp-content/uploads/2021/04/mitsubishi-3.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-74bc552" data-elementor-lightbox-title="mitsubishi-3">
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="https://renandev.netlify.app/wp-content/uploads/2021/04/mitsubishi-3-237x300.jpg" data-width="237" data-height="300" alt="" ></div>
 										<div class="elementor-gallery-item__overlay"></div>
 														</a>
-							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="/wp-content/uploads/2021/04/mitsubishi-2.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-74bc552" data-elementor-lightbox-title="mitsubishi-2">
-					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="/wp-content/uploads/2021/04/mitsubishi-2-300x266.jpg" data-width="300" data-height="266" alt="" ></div>
+							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="https://renandev.netlify.app/wp-content/uploads/2021/04/mitsubishi-2.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-74bc552" data-elementor-lightbox-title="mitsubishi-2">
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="https://renandev.netlify.app/wp-content/uploads/2021/04/mitsubishi-2-300x266.jpg" data-width="300" data-height="266" alt="" ></div>
 										<div class="elementor-gallery-item__overlay"></div>
 														</a>
-							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="/wp-content/uploads/2021/04/mitsubishi-1.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-74bc552" data-elementor-lightbox-title="mitsubishi-1">
-					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="/wp-content/uploads/2021/04/mitsubishi-1-300x286.jpg" data-width="300" data-height="286" alt="" ></div>
+							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="https://renandev.netlify.app/wp-content/uploads/2021/04/mitsubishi-1.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-74bc552" data-elementor-lightbox-title="mitsubishi-1">
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="https://renandev.netlify.app/wp-content/uploads/2021/04/mitsubishi-1-300x286.jpg" data-width="300" data-height="286" alt="" ></div>
 										<div class="elementor-gallery-item__overlay"></div>
 														</a>
-							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="/wp-content/uploads/2021/04/cross.png" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-74bc552" data-elementor-lightbox-title="cross">
-					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="/wp-content/uploads/2021/04/cross-169x300.png" data-width="169" data-height="300" alt="" ></div>
+							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="https://renandev.netlify.app/wp-content/uploads/2021/04/cross.png" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-74bc552" data-elementor-lightbox-title="cross">
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="https://renandev.netlify.app/wp-content/uploads/2021/04/cross-169x300.png" data-width="169" data-height="300" alt="" ></div>
 										<div class="elementor-gallery-item__overlay"></div>
 														</a>
-							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="/wp-content/uploads/2021/04/cross-2.png" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-74bc552" data-elementor-lightbox-title="cross-2">
-					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="/wp-content/uploads/2021/04/cross-2-169x300.png" data-width="169" data-height="300" alt="" ></div>
+							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="https://renandev.netlify.app/wp-content/uploads/2021/04/cross-2.png" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-74bc552" data-elementor-lightbox-title="cross-2">
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="https://renandev.netlify.app/wp-content/uploads/2021/04/cross-2-169x300.png" data-width="169" data-height="300" alt="" ></div>
 										<div class="elementor-gallery-item__overlay"></div>
 														</a>
-							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="/wp-content/uploads/2021/04/cross-3.png" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-74bc552" data-elementor-lightbox-title="cross-3">
-					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="/wp-content/uploads/2021/04/cross-3-150x300.png" data-width="150" data-height="300" alt="" ></div>
+							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="https://renandev.netlify.app/wp-content/uploads/2021/04/cross-3.png" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-74bc552" data-elementor-lightbox-title="cross-3">
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="https://renandev.netlify.app/wp-content/uploads/2021/04/cross-3-150x300.png" data-width="150" data-height="300" alt="" ></div>
 										<div class="elementor-gallery-item__overlay"></div>
 														</a>
-							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="/wp-content/uploads/2021/04/cross-4.png" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-74bc552" data-elementor-lightbox-title="cross-4">
-					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="/wp-content/uploads/2021/04/cross-4-150x300.png" data-width="150" data-height="300" alt="" ></div>
+							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="https://renandev.netlify.app/wp-content/uploads/2021/04/cross-4.png" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-74bc552" data-elementor-lightbox-title="cross-4">
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="https://renandev.netlify.app/wp-content/uploads/2021/04/cross-4-150x300.png" data-width="150" data-height="300" alt="" ></div>
 										<div class="elementor-gallery-item__overlay"></div>
 														</a>
-							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="/wp-content/uploads/2021/04/cross-5.png" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-74bc552" data-elementor-lightbox-title="cross-5">
-					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="/wp-content/uploads/2021/04/cross-5-150x300.png" data-width="150" data-height="300" alt="" ></div>
+							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="https://renandev.netlify.app/wp-content/uploads/2021/04/cross-5.png" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-74bc552" data-elementor-lightbox-title="cross-5">
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="https://renandev.netlify.app/wp-content/uploads/2021/04/cross-5-150x300.png" data-width="150" data-height="300" alt="" ></div>
 										<div class="elementor-gallery-item__overlay"></div>
 														</a>
 					</div>
@@ -1108,7 +1108,7 @@
 					</div>
 		]]></content:encoded>
 					
-					<wfw:commentRss>/2021/04/29/aplicativo-de-realidade-aumentada-eclipse-cross-mitsubishi/feed/</wfw:commentRss>
+					<wfw:commentRss>https://renandev.netlify.app/2021/04/29/aplicativo-de-realidade-aumentada-eclipse-cross-mitsubishi/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
