@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/wordpress/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description></description>
-	<lastBuildDate>Thu, 29 Apr 2021 15:32:32 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 29 Apr 2021 15:48:05 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,7 +29,7 @@
 				<category><![CDATA[Profissional]]></category>
 		<guid isPermaLink="false">/?p=329</guid>
 
-					<description><![CDATA[Eclipse Cross Mitsubishi Empresa &#8211; Ideas Farm Problema: Necessidade de reutilização de interações de realidade aumentada Solução: Quando comecei a participar deste projeto, a empresa tinha muitos módulos de realidades prontos, porém percebi a dificuldade de colocar todos os módulos em uso para o usuário final. Entendi como funcionava cada [&#8230;]]]></description>
+					<description><![CDATA[Templates para Realidade Aumentada Empresa &#8211; Ideas Farm Problema: Necessidade de reutilização de interações de realidade aumentada Solução: Quando comecei a participar deste projeto, a empresa tinha muitos módulos de realidades prontos, porém percebi a dificuldade de colocar todos os módulos em uso para o usuário final. Entendi como funcionava [&#8230;]]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="329" class="elementor elementor-329" data-elementor-settings="[]">
 						<div class="elementor-inner">
 							<div class="elementor-section-wrap">
@@ -41,7 +41,7 @@
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-c6ca305 elementor-widget elementor-widget-heading" data-id="c6ca305" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h1 class="elementor-heading-title elementor-size-default">Eclipse Cross Mitsubishi</h1>		</div>
+			<h1 class="elementor-heading-title elementor-size-default">Templates para Realidade Aumentada</h1>		</div>
 				</div>
 				<div class="elementor-element elementor-element-1a92995 elementor-widget elementor-widget-text-editor" data-id="1a92995" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
