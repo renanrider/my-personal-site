@@ -1,24 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Internet of Things on Renan - Desenvolvedor</title>
-    <link>https://renandev.netlify.app/br/posts/iot/</link>
-    <description>Recent content in Internet of Things on Renan - Desenvolvedor</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 15 Nov 2020 06:00:23 +0600</lastBuildDate>
-    
-	<atom:link href="https://renandev.netlify.app/br/posts/iot/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Começando com Internet of Things</title>
-      <link>https://renandev.netlify.app/br/posts/iot/come%C3%A7ando-com-internet-of-things/</link>
-      <pubDate>Sun, 15 Nov 2020 06:00:23 +0600</pubDate>
-      
-      <guid>https://renandev.netlify.app/br/posts/iot/come%C3%A7ando-com-internet-of-things/</guid>
-      <description>O que é Internet das Coisas?A Internet das Coisas, é uma rede de objetos físicos que possuem tecnologia embarcada para comunicar, captar sinais e interagir consigo mesmos ou com o ambiente externo. Gartner Group20,4 BilhãoDe dispositivos conectados em 2020 de acordo com a empresa de pesquisa e consultoria Gartner.Cases de SucessoPhilips HueÉ um sistema de iluminação sem fio, que permite controlar facilmente a iluminação e criar o ambiente certo para cada momento.</description>
-    </item>
-    
-  </channel>
-</rss>

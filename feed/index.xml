@@ -1,0 +1,931 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Renan &#8211; DEV</title>
+	<atom:link href="http://localhost/wordpress/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Thu, 29 Apr 2021 05:36:32 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<item>
+		<title>Casa Fácil</title>
+		<link>/2021/04/29/casa-facil/</link>
+					<comments>/2021/04/29/casa-facil/#respond</comments>
+		
+		<dc:creator><![CDATA[trex]]></dc:creator>
+		<pubDate>Thu, 29 Apr 2021 05:15:07 +0000</pubDate>
+				<category><![CDATA[Pessoal]]></category>
+		<guid isPermaLink="false">/?p=260</guid>
+
+					<description><![CDATA[Casa Fácil &#8211; Aplicativo Empresa &#8211; Ideas Farm Problema: A ideia surgiu apenas para estudo, porém pretendo lançar em um futuro próximo. Solução: É um aplicativo para anunciar imóveis de maneira simples, ao analisar aplicativos que existem no mercado, foi observado a dificuldade e a burocracia para anunciar um imóvel, [&#8230;]]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="260" class="elementor elementor-260" data-elementor-settings="[]">
+						<div class="elementor-inner">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-a64026c elementor-section-full_width elementor-section-height-min-height elementor-section-height-default elementor-section-items-middle" data-id="a64026c" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-fb5f3c4" data-id="fb5f3c4" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-fc7fd86 elementor-widget elementor-widget-heading" data-id="fc7fd86" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h1 class="elementor-heading-title elementor-size-default">Casa Fácil - Aplicativo</h1>		</div>
+				</div>
+				<div class="elementor-element elementor-element-c8b20e6 elementor-widget elementor-widget-text-editor" data-id="c8b20e6" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+					<h3>Empresa &#8211; Ideas Farm</h3>					</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-f3679bf elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f3679bf" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5d18b85" data-id="5d18b85" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-642a9b4 elementor-widget elementor-widget-heading" data-id="642a9b4" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Problema:</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-d45554b elementor-widget elementor-widget-text-editor" data-id="d45554b" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+					<p>A ideia surgiu apenas para estudo, porém pretendo lançar em um futuro próximo.</p>					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-d0df2e5 elementor-widget elementor-widget-heading" data-id="d0df2e5" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Solução:</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-2560755 elementor-widget elementor-widget-text-editor" data-id="2560755" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+					<p>É um aplicativo para anunciar imóveis de maneira simples, ao analisar aplicativos que existem no mercado, foi observado a dificuldade e a burocracia para anunciar um imóvel, visto essa lacuna, comecei a desenvolver o aplicativo Casa Fácil, desenvolvendo todo o backend utilizando a stack MongoDB, Express e NodeJS e para o aplicativo o framework IONIC com AngularJS.</p>					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-9f2920d elementor-widget elementor-widget-gallery" data-id="9f2920d" data-element_type="widget" data-settings="{&quot;aspect_ratio&quot;:&quot;4:3&quot;,&quot;lazyload&quot;:&quot;yes&quot;,&quot;gallery_layout&quot;:&quot;grid&quot;,&quot;columns&quot;:4,&quot;columns_tablet&quot;:2,&quot;columns_mobile&quot;:1,&quot;gap&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;gap_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;gap_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;link_to&quot;:&quot;file&quot;,&quot;overlay_background&quot;:&quot;yes&quot;,&quot;content_hover_animation&quot;:&quot;fade-in&quot;}" data-widget_type="gallery.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-gallery__container">
+							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="/wp-content/uploads/2021/04/casa1-1.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-9f2920d" data-elementor-lightbox-title="casa1">
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="/wp-content/uploads/2021/04/casa1-1-300x200.jpg" data-width="300" data-height="200" alt="" ></div>
+										<div class="elementor-gallery-item__overlay"></div>
+														</a>
+							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="/wp-content/uploads/2021/04/casa2.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-9f2920d" data-elementor-lightbox-title="casa2">
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="/wp-content/uploads/2021/04/casa2-300x216.jpg" data-width="300" data-height="216" alt="" ></div>
+										<div class="elementor-gallery-item__overlay"></div>
+														</a>
+							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="/wp-content/uploads/2021/04/casa3.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-9f2920d" data-elementor-lightbox-title="casa3">
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="/wp-content/uploads/2021/04/casa3-300x200.jpg" data-width="300" data-height="200" alt="" ></div>
+										<div class="elementor-gallery-item__overlay"></div>
+														</a>
+					</div>
+			</div>
+				</div>
+				<div class="elementor-element elementor-element-4a0c8a7 elementor-button-success elementor-align-center elementor-widget elementor-widget-button" data-id="4a0c8a7" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://play.google.com/store/apps/details?id=com.inhouseinteractive.casafacil" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Ver na Loja</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+						</div>
+					</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>/2021/04/29/casa-facil/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Otimização de SEO + Site</title>
+		<link>/2021/04/29/otimizacao-de-seo-site/</link>
+					<comments>/2021/04/29/otimizacao-de-seo-site/#respond</comments>
+		
+		<dc:creator><![CDATA[trex]]></dc:creator>
+		<pubDate>Thu, 29 Apr 2021 05:07:30 +0000</pubDate>
+				<category><![CDATA[Profissional]]></category>
+		<guid isPermaLink="false">/?p=250</guid>
+
+					<description><![CDATA[Eclipse Cross Mitsubishi Empresa &#8211; Ideas Farm Problema: O site não estava otimizado para os motores de buscas. Solução: O objetivo era melhorar o site existente e criar diversas páginas explicando o produto principal do cliente. Foi desenvolvido uma estratégia de otimização Search Engine Optimization e reestruturação de diversas páginas [&#8230;]]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="250" class="elementor elementor-250" data-elementor-settings="[]">
+						<div class="elementor-inner">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-a7e94c4 elementor-section-full_width elementor-section-height-min-height elementor-section-height-default elementor-section-items-middle" data-id="a7e94c4" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-84b4160" data-id="84b4160" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-052270e elementor-widget elementor-widget-heading" data-id="052270e" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h1 class="elementor-heading-title elementor-size-default">Eclipse Cross Mitsubishi</h1>		</div>
+				</div>
+				<div class="elementor-element elementor-element-8848580 elementor-widget elementor-widget-text-editor" data-id="8848580" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+					<h3>Empresa &#8211; Ideas Farm</h3>					</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-6615f94 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6615f94" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-bde31c2" data-id="bde31c2" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-31093aa elementor-widget elementor-widget-heading" data-id="31093aa" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Problema:</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-805e895 elementor-widget elementor-widget-text-editor" data-id="805e895" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+					<p>O site não estava otimizado para os motores de buscas.</p>					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-f79eba4 elementor-widget elementor-widget-heading" data-id="f79eba4" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Solução:</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-cd4ab8c elementor-widget elementor-widget-text-editor" data-id="cd4ab8c" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+					<p>O objetivo era melhorar o site existente e criar diversas páginas explicando o produto principal do cliente. Foi desenvolvido uma estratégia de otimização Search Engine Optimization e <span><span data-dobid="hdw">reestruturação</span></span> de diversas páginas e conteúdos. Melhorando o posicionamento do site para buscas relacionadas ao termo definido na estratégia de marketing.</p>					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-f49f513 elementor-widget elementor-widget-gallery" data-id="f49f513" data-element_type="widget" data-settings="{&quot;aspect_ratio&quot;:&quot;4:3&quot;,&quot;lazyload&quot;:&quot;yes&quot;,&quot;gallery_layout&quot;:&quot;grid&quot;,&quot;columns&quot;:4,&quot;columns_tablet&quot;:2,&quot;columns_mobile&quot;:1,&quot;gap&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;gap_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;gap_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;link_to&quot;:&quot;file&quot;,&quot;overlay_background&quot;:&quot;yes&quot;,&quot;content_hover_animation&quot;:&quot;fade-in&quot;}" data-widget_type="gallery.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-gallery__container">
+							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="/wp-content/uploads/2021/04/ideasfarmsite-1.png" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-f49f513" data-elementor-lightbox-title="ideasfarmsite">
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="/wp-content/uploads/2021/04/ideasfarmsite-1-300x147.png" data-width="300" data-height="147" alt="" ></div>
+										<div class="elementor-gallery-item__overlay"></div>
+														</a>
+							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="/wp-content/uploads/2021/04/ideas-farm-google.png" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-f49f513" data-elementor-lightbox-title="ideas-farm-google">
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="/wp-content/uploads/2021/04/ideas-farm-google-300x215.png" data-width="300" data-height="215" alt="" ></div>
+										<div class="elementor-gallery-item__overlay"></div>
+														</a>
+							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="/wp-content/uploads/2021/04/ideas-farm-google1.png" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-f49f513" data-elementor-lightbox-title="ideas-farm-google1">
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="/wp-content/uploads/2021/04/ideas-farm-google1-300x203.png" data-width="300" data-height="203" alt="" ></div>
+										<div class="elementor-gallery-item__overlay"></div>
+														</a>
+					</div>
+			</div>
+				</div>
+				<div class="elementor-element elementor-element-ca3207e elementor-button-success elementor-align-center elementor-widget elementor-widget-button" data-id="ca3207e" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://play.google.com/store/apps/details?id=br.com.ideasfarm.mitsubishiplay" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Ver na Loja</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+						</div>
+					</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>/2021/04/29/otimizacao-de-seo-site/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Virtual Try-On Eótica</title>
+		<link>/2021/04/29/virtual-try-on-eotica/</link>
+					<comments>/2021/04/29/virtual-try-on-eotica/#respond</comments>
+		
+		<dc:creator><![CDATA[trex]]></dc:creator>
+		<pubDate>Thu, 29 Apr 2021 05:03:02 +0000</pubDate>
+				<category><![CDATA[Profissional]]></category>
+		<guid isPermaLink="false">/?p=240</guid>
+
+					<description><![CDATA[Virtual Try-On Eótica Empresa &#8211; Ideas Farm Problema: Diminuir a troca de óculos comprados online Solução: Foi criado uma aplicação web que utiliza realidade aumentada para inserir diversos modelos de óculos virtual no rosto do cliente, motivando o cliente a efetuar a compra e evitando devoluções.]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="240" class="elementor elementor-240" data-elementor-settings="[]">
+						<div class="elementor-inner">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-f640242 elementor-section-full_width elementor-section-height-min-height elementor-section-height-default elementor-section-items-middle" data-id="f640242" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-48bc4eb" data-id="48bc4eb" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-638e279 elementor-widget elementor-widget-heading" data-id="638e279" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h1 class="elementor-heading-title elementor-size-default">Virtual Try-On Eótica</h1>		</div>
+				</div>
+				<div class="elementor-element elementor-element-b267021 elementor-widget elementor-widget-text-editor" data-id="b267021" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+					<h3>Empresa &#8211; Ideas Farm</h3>					</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-386000c elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="386000c" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-15b7550" data-id="15b7550" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-55f5b85 elementor-widget elementor-widget-heading" data-id="55f5b85" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Problema:</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-d8b176a elementor-widget elementor-widget-text-editor" data-id="d8b176a" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+					<p>Diminuir a troca de óculos comprados online</p>					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-b957c00 elementor-widget elementor-widget-heading" data-id="b957c00" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Solução:</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-7256d6c elementor-widget elementor-widget-text-editor" data-id="7256d6c" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+					<p>Foi criado uma aplicação web que utiliza realidade aumentada para inserir diversos modelos de óculos virtual no rosto do cliente, motivando o cliente a efetuar a compra e evitando devoluções.</p>					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-b4ca6a0 elementor-widget elementor-widget-gallery" data-id="b4ca6a0" data-element_type="widget" data-settings="{&quot;aspect_ratio&quot;:&quot;4:3&quot;,&quot;lazyload&quot;:&quot;yes&quot;,&quot;gallery_layout&quot;:&quot;grid&quot;,&quot;columns&quot;:4,&quot;columns_tablet&quot;:2,&quot;columns_mobile&quot;:1,&quot;gap&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;gap_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;gap_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;link_to&quot;:&quot;file&quot;,&quot;overlay_background&quot;:&quot;yes&quot;,&quot;content_hover_animation&quot;:&quot;fade-in&quot;}" data-widget_type="gallery.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-gallery__container">
+							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="/wp-content/uploads/2021/04/e-otica-1.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-b4ca6a0" data-elementor-lightbox-title="e-otica-1">
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="/wp-content/uploads/2021/04/e-otica-1-300x232.jpg" data-width="300" data-height="232" alt="" ></div>
+										<div class="elementor-gallery-item__overlay"></div>
+														</a>
+					</div>
+			</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+						</div>
+					</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>/2021/04/29/virtual-try-on-eotica/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Blog Viajanet</title>
+		<link>/2021/04/29/blog-viajanet/</link>
+					<comments>/2021/04/29/blog-viajanet/#respond</comments>
+		
+		<dc:creator><![CDATA[trex]]></dc:creator>
+		<pubDate>Thu, 29 Apr 2021 04:55:21 +0000</pubDate>
+				<category><![CDATA[Profissional]]></category>
+		<guid isPermaLink="false">/?p=232</guid>
+
+					<description><![CDATA[Blog Viajanet Empresa &#8211; Conversion Problema: Criar um blog que utilizasse uma plataforma simples para os redatores com foco em SEO. Solução: O objetivo era criar um blog que utilizasse uma plataforma simples para os redatores com foco em SEO. A plataforma escolhida foi o WordPress por permitir criar várias [&#8230;]]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="232" class="elementor elementor-232" data-elementor-settings="[]">
+						<div class="elementor-inner">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-6a97e2e elementor-section-full_width elementor-section-height-min-height elementor-section-height-default elementor-section-items-middle" data-id="6a97e2e" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-b3c2c2b" data-id="b3c2c2b" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-dfa7bbe elementor-widget elementor-widget-heading" data-id="dfa7bbe" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h1 class="elementor-heading-title elementor-size-default">Blog Viajanet</h1>		</div>
+				</div>
+				<div class="elementor-element elementor-element-8e798bf elementor-widget elementor-widget-text-editor" data-id="8e798bf" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+					<h3>Empresa &#8211; Conversion</h3>					</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-1a99c0a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1a99c0a" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-8ecc43a" data-id="8ecc43a" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-0ccaa89 elementor-widget elementor-widget-heading" data-id="0ccaa89" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Problema:</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-967e9ff elementor-widget elementor-widget-text-editor" data-id="967e9ff" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+					<p>Criar um blog que utilizasse uma plataforma simples para os redatores com foco em SEO.</p>					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-fc4065b elementor-widget elementor-widget-heading" data-id="fc4065b" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Solução:</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-642870b elementor-widget elementor-widget-text-editor" data-id="642870b" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+					<p>O objetivo era criar um blog que utilizasse uma plataforma simples para os redatores com foco em SEO. A plataforma escolhida foi o WordPress por permitir criar várias contas para os redatores e ser simples de utilizar e ainda contar com uma vasta gama de plugins que otimizam a página ppara SEO. Resultado um blog com visual clean e que carrega muito rápido.</p>					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-469eca7 elementor-widget elementor-widget-gallery" data-id="469eca7" data-element_type="widget" data-settings="{&quot;aspect_ratio&quot;:&quot;4:3&quot;,&quot;lazyload&quot;:&quot;yes&quot;,&quot;gallery_layout&quot;:&quot;grid&quot;,&quot;columns&quot;:4,&quot;columns_tablet&quot;:2,&quot;columns_mobile&quot;:1,&quot;gap&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;gap_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;gap_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;link_to&quot;:&quot;file&quot;,&quot;overlay_background&quot;:&quot;yes&quot;,&quot;content_hover_animation&quot;:&quot;fade-in&quot;}" data-widget_type="gallery.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-gallery__container">
+							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="/wp-content/uploads/2021/04/viajanet-blog-1.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-469eca7" data-elementor-lightbox-title="viajanet-blog">
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="/wp-content/uploads/2021/04/viajanet-blog-1-300x146.jpg" data-width="300" data-height="146" alt="" ></div>
+										<div class="elementor-gallery-item__overlay"></div>
+														</a>
+							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="/wp-content/uploads/2021/04/viajanet-blog-2.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-469eca7" data-elementor-lightbox-title="viajanet-blog-2">
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="/wp-content/uploads/2021/04/viajanet-blog-2-300x146.jpg" data-width="300" data-height="146" alt="" ></div>
+										<div class="elementor-gallery-item__overlay"></div>
+														</a>
+					</div>
+			</div>
+				</div>
+				<div class="elementor-element elementor-element-9c9bc5b elementor-button-success elementor-align-center elementor-widget elementor-widget-button" data-id="9c9bc5b" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://www.viajanet.com.br/blog/" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Visitar Blog</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+						</div>
+					</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>/2021/04/29/blog-viajanet/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Tabloide Mágico Gazin</title>
+		<link>/2021/04/29/tabloide-magico-gazin/</link>
+					<comments>/2021/04/29/tabloide-magico-gazin/#respond</comments>
+		
+		<dc:creator><![CDATA[trex]]></dc:creator>
+		<pubDate>Thu, 29 Apr 2021 04:47:31 +0000</pubDate>
+				<category><![CDATA[Profissional]]></category>
+		<guid isPermaLink="false">/?p=222</guid>
+
+					<description><![CDATA[Tabloide Mágico Gazin Empresa &#8211; Ideas Farm Problema: Trazer interatividade para os tabloides que são distribuídos nas lojas de todo o Brasil. Solução: Foi criado um aplicativo que utiliza realidade aumentada para ler as páginas do tabloide e exibir interações de realidade aumentada, contendo videos, imagens detalhadas dos produtos e [&#8230;]]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="222" class="elementor elementor-222" data-elementor-settings="[]">
+						<div class="elementor-inner">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-6f1bae1 elementor-section-full_width elementor-section-height-min-height elementor-section-height-default elementor-section-items-middle" data-id="6f1bae1" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-74b0e44" data-id="74b0e44" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-cc4c68d elementor-widget elementor-widget-heading" data-id="cc4c68d" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h1 class="elementor-heading-title elementor-size-default">Tabloide Mágico Gazin</h1>		</div>
+				</div>
+				<div class="elementor-element elementor-element-8e7d08f elementor-widget elementor-widget-text-editor" data-id="8e7d08f" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+					<h3>Empresa &#8211; Ideas Farm</h3>					</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-223c5d1 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="223c5d1" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-9942237" data-id="9942237" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-fd375b0 elementor-widget elementor-widget-heading" data-id="fd375b0" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Problema:</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-aeb4bc4 elementor-widget elementor-widget-text-editor" data-id="aeb4bc4" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+					<p>Trazer interatividade para os tabloides que são distribuídos nas lojas de todo o Brasil.</p>					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-23bdd73 elementor-widget elementor-widget-heading" data-id="23bdd73" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Solução:</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-94cd719 elementor-widget elementor-widget-text-editor" data-id="94cd719" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+					<p>Foi criado um aplicativo que utiliza realidade aumentada para ler as páginas do tabloide e exibir interações de realidade aumentada, contendo videos, imagens detalhadas dos produtos e muito mais. Além de registrar os eventos dos usúarios em uma ferramenta de Analytics.</p>					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-0492aba elementor-widget elementor-widget-gallery" data-id="0492aba" data-element_type="widget" data-settings="{&quot;aspect_ratio&quot;:&quot;4:3&quot;,&quot;lazyload&quot;:&quot;yes&quot;,&quot;gallery_layout&quot;:&quot;grid&quot;,&quot;columns&quot;:4,&quot;columns_tablet&quot;:2,&quot;columns_mobile&quot;:1,&quot;gap&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;gap_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;gap_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;link_to&quot;:&quot;file&quot;,&quot;overlay_background&quot;:&quot;yes&quot;,&quot;content_hover_animation&quot;:&quot;fade-in&quot;}" data-widget_type="gallery.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-gallery__container">
+							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="/wp-content/uploads/2021/04/gazin1.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-0492aba" data-elementor-lightbox-title="gazin1">
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="/wp-content/uploads/2021/04/gazin1-300x231.jpg" data-width="300" data-height="231" alt="" ></div>
+										<div class="elementor-gallery-item__overlay"></div>
+														</a>
+							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="/wp-content/uploads/2021/04/gazin2.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-0492aba" data-elementor-lightbox-title="gazin2">
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="/wp-content/uploads/2021/04/gazin2-300x204.jpg" data-width="300" data-height="204" alt="" ></div>
+										<div class="elementor-gallery-item__overlay"></div>
+														</a>
+							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="/wp-content/uploads/2021/04/gazin3-1.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-0492aba" data-elementor-lightbox-title="gazin3">
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="/wp-content/uploads/2021/04/gazin3-1-300x291.jpg" data-width="300" data-height="291" alt="" ></div>
+										<div class="elementor-gallery-item__overlay"></div>
+														</a>
+					</div>
+			</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-84bc1e8 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="84bc1e8" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-f0383b7" data-id="f0383b7" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-ec55e3a elementor-aspect-ratio-169 elementor-widget elementor-widget-video" data-id="ec55e3a" data-element_type="widget" data-settings="{&quot;youtube_url&quot;:&quot;https:\/\/www.youtube.com\/embed\/2sWVmGv4JEw&quot;,&quot;video_type&quot;:&quot;youtube&quot;,&quot;controls&quot;:&quot;yes&quot;,&quot;aspect_ratio&quot;:&quot;169&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
+			<div class="elementor-video"></div>		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-28277f5" data-id="28277f5" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-f410d2e elementor-aspect-ratio-169 elementor-widget elementor-widget-video" data-id="f410d2e" data-element_type="widget" data-settings="{&quot;youtube_url&quot;:&quot;https:\/\/www.youtube.com\/embed\/a0JU9deAjS0&quot;,&quot;video_type&quot;:&quot;youtube&quot;,&quot;controls&quot;:&quot;yes&quot;,&quot;aspect_ratio&quot;:&quot;169&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
+			<div class="elementor-video"></div>		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<div class="elementor-element elementor-element-c0082d7 elementor-button-success elementor-align-center elementor-widget elementor-widget-button" data-id="c0082d7" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://play.google.com/store/apps/details?id=br.com.ideasfarm.gazinplayy&#038;hl=pt_BR&#038;gl=US" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Ver na Loja</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+						</div>
+					</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>/2021/04/29/tabloide-magico-gazin/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Calopsita Cantando — Aplicativo</title>
+		<link>/2021/04/29/calopsita-cantando-aplicativo/</link>
+					<comments>/2021/04/29/calopsita-cantando-aplicativo/#respond</comments>
+		
+		<dc:creator><![CDATA[trex]]></dc:creator>
+		<pubDate>Thu, 29 Apr 2021 04:08:54 +0000</pubDate>
+				<category><![CDATA[Hobby]]></category>
+		<guid isPermaLink="false">/?p=164</guid>
+
+					<description><![CDATA[Eclipse Cross Mitsubishi Empresa &#8211; Ideas Farm Problema: Recriar um aplicativo já existente com outra tecnologia e ganhar popularidade na Play Store. Solução: É um aplicativo para ensinar calopsitas a cantar. A ideia do aplicativo surgiu quando ganhei uma calopsita e ela não cantava, procurei por algum aplicativo semelhante e [&#8230;]]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="164" class="elementor elementor-164" data-elementor-settings="[]">
+						<div class="elementor-inner">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-0d360ad elementor-section-full_width elementor-section-height-min-height elementor-section-height-default elementor-section-items-middle" data-id="0d360ad" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-6a41b64" data-id="6a41b64" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-cd9f455 elementor-widget elementor-widget-heading" data-id="cd9f455" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h1 class="elementor-heading-title elementor-size-default">Eclipse Cross Mitsubishi</h1>		</div>
+				</div>
+				<div class="elementor-element elementor-element-88609bc elementor-widget elementor-widget-text-editor" data-id="88609bc" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+					<h3>Empresa &#8211; Ideas Farm</h3>					</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-a87c698 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="a87c698" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1128ad6" data-id="1128ad6" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-a825d71 elementor-widget elementor-widget-heading" data-id="a825d71" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Problema:</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-40935b8 elementor-widget elementor-widget-text-editor" data-id="40935b8" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+					<p>Recriar um aplicativo já existente com outra tecnologia e ganhar popularidade na Play Store.</p>					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-2350e89 elementor-widget elementor-widget-heading" data-id="2350e89" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Solução:</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-268d68f elementor-widget elementor-widget-text-editor" data-id="268d68f" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+					<p>É um aplicativo para ensinar calopsitas a cantar. A ideia do aplicativo surgiu quando ganhei uma calopsita e ela não cantava, procurei por algum aplicativo semelhante e não tinha nenhum usável. Desenvolvi a primeira versão nativa para Android que teve mais de 50 mil downloads, porém na época tive um problema com o keystore, e não consegui mais atualizar o aplicativo, e recriei o mesmo utilizando a Unity.</p>					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-ceaa551 elementor-widget elementor-widget-gallery" data-id="ceaa551" data-element_type="widget" data-settings="{&quot;aspect_ratio&quot;:&quot;4:3&quot;,&quot;lazyload&quot;:&quot;yes&quot;,&quot;gallery_layout&quot;:&quot;grid&quot;,&quot;columns&quot;:4,&quot;columns_tablet&quot;:2,&quot;columns_mobile&quot;:1,&quot;gap&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;gap_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;gap_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;link_to&quot;:&quot;file&quot;,&quot;overlay_background&quot;:&quot;yes&quot;,&quot;content_hover_animation&quot;:&quot;fade-in&quot;}" data-widget_type="gallery.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-gallery__container">
+							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="/wp-content/uploads/2021/04/calopsita2.png" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-ceaa551" data-elementor-lightbox-title="calopsita2">
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="/wp-content/uploads/2021/04/calopsita2-169x300.png" data-width="169" data-height="300" alt="" ></div>
+										<div class="elementor-gallery-item__overlay"></div>
+														</a>
+							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="/wp-content/uploads/2021/04/calopsita-1.png" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-ceaa551" data-elementor-lightbox-title="calopsita">
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="/wp-content/uploads/2021/04/calopsita-1-169x300.png" data-width="169" data-height="300" alt="" ></div>
+										<div class="elementor-gallery-item__overlay"></div>
+														</a>
+							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="/wp-content/uploads/2021/04/rating.png" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-ceaa551" data-elementor-lightbox-title="rating">
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="/wp-content/uploads/2021/04/rating-300x126.png" data-width="300" data-height="126" alt="" ></div>
+										<div class="elementor-gallery-item__overlay"></div>
+														</a>
+							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="/wp-content/uploads/2021/04/rating-app-2.png" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-ceaa551" data-elementor-lightbox-title="rating-app-2">
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="/wp-content/uploads/2021/04/rating-app-2-300x86.png" data-width="300" data-height="86" alt="" ></div>
+										<div class="elementor-gallery-item__overlay"></div>
+														</a>
+					</div>
+			</div>
+				</div>
+				<div class="elementor-element elementor-element-0afb3d5 elementor-aspect-ratio-169 elementor-widget elementor-widget-video" data-id="0afb3d5" data-element_type="widget" data-settings="{&quot;youtube_url&quot;:&quot;https:\/\/youtu.be\/QlNRwdJZxVo&quot;,&quot;video_type&quot;:&quot;youtube&quot;,&quot;controls&quot;:&quot;yes&quot;,&quot;aspect_ratio&quot;:&quot;169&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
+			<div class="elementor-video"></div>		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-26d569e elementor-button-success elementor-align-center elementor-widget elementor-widget-button" data-id="26d569e" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://play.google.com/store/apps/details?id=com.inhouseinteractive.calopsitasounds" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Ver na Loja</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+						</div>
+					</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>/2021/04/29/calopsita-cantando-aplicativo/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Cat Jump — Hyper Casual Game</title>
+		<link>/2021/04/29/cat-jump-hyper-casual-game/</link>
+					<comments>/2021/04/29/cat-jump-hyper-casual-game/#respond</comments>
+		
+		<dc:creator><![CDATA[trex]]></dc:creator>
+		<pubDate>Thu, 29 Apr 2021 03:54:06 +0000</pubDate>
+				<category><![CDATA[Hobby]]></category>
+		<category><![CDATA[Pessoal]]></category>
+		<guid isPermaLink="false">/?p=148</guid>
+
+					<description><![CDATA[Cat Jump — Hyper Casual Game Problema: A ideia surgiu após ler um livro sobre o estilo de jogos super casuais, aqueles que normalmente jogamos em fila do banco ou mesmo no metrô se segurando e jogando apenas com uma mão. Solução: O desafio era tanto em criar uma interface [&#8230;]]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="148" class="elementor elementor-148" data-elementor-settings="[]">
+						<div class="elementor-inner">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-552b186 elementor-section-full_width elementor-section-height-min-height elementor-section-height-default elementor-section-items-middle" data-id="552b186" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-6239468" data-id="6239468" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-fcba2d6 elementor-widget elementor-widget-heading" data-id="fcba2d6" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h1 class="elementor-heading-title elementor-size-default">Cat Jump — Hyper Casual Game</h1>		</div>
+				</div>
+				<div class="elementor-element elementor-element-4f397ea elementor-widget elementor-widget-text-editor" data-id="4f397ea" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+										</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-6177dd6 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6177dd6" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-9675a08" data-id="9675a08" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-62c36c9 elementor-widget elementor-widget-heading" data-id="62c36c9" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Problema:</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-0d5f367 elementor-widget elementor-widget-text-editor" data-id="0d5f367" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+					<p>A ideia surgiu após ler um livro sobre o estilo de jogos super casuais, aqueles que normalmente jogamos em fila do banco ou mesmo no metrô se segurando e jogando apenas com uma mão.</p>					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-7fbdc26 elementor-widget elementor-widget-heading" data-id="7fbdc26" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Solução:</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-3811a16 elementor-widget elementor-widget-text-editor" data-id="3811a16" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+					<p>O desafio era tanto em criar uma interface extremamente intuitiva e agradável e implementar boas práticas desenvolvimento relacionadas a jogos mobile.</p><p>É um jogo desafiador e divertido com design minimalista em estilo de infinity run, onde o objetivo é ultrapassar a maior quantidade de obstáculos possíveis e ainda recolher as moedas. Neste projeto foi utilizado as melhores práticas de desenvolvimento, tais como. Organização de diretórios, Design Patterns, Event System, Programação orientada a objetos e SOLID. Na parte de Assets, todas as imagens e objetos tridimensionais foram modelados e otimizados por mim.</p>					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-492dd8d elementor-aspect-ratio-169 elementor-widget elementor-widget-video" data-id="492dd8d" data-element_type="widget" data-settings="{&quot;youtube_url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=TrV2Mfjabis&amp;ab_channel=InHouseInteractive&quot;,&quot;video_type&quot;:&quot;youtube&quot;,&quot;controls&quot;:&quot;yes&quot;,&quot;aspect_ratio&quot;:&quot;169&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
+			<div class="elementor-video"></div>		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-f1ee7b3 elementor-widget elementor-widget-gallery" data-id="f1ee7b3" data-element_type="widget" data-settings="{&quot;aspect_ratio&quot;:&quot;4:3&quot;,&quot;lazyload&quot;:&quot;yes&quot;,&quot;gallery_layout&quot;:&quot;grid&quot;,&quot;columns&quot;:4,&quot;columns_tablet&quot;:2,&quot;columns_mobile&quot;:1,&quot;gap&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;gap_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;gap_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;link_to&quot;:&quot;file&quot;,&quot;overlay_background&quot;:&quot;yes&quot;,&quot;content_hover_animation&quot;:&quot;fade-in&quot;}" data-widget_type="gallery.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-gallery__container">
+							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="/wp-content/uploads/2021/04/catjump3.png" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-f1ee7b3" data-elementor-lightbox-title="catjump3">
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="/wp-content/uploads/2021/04/catjump3-169x300.png" data-width="169" data-height="300" alt="" ></div>
+										<div class="elementor-gallery-item__overlay"></div>
+														</a>
+							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="/wp-content/uploads/2021/04/catjump2.png" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-f1ee7b3" data-elementor-lightbox-title="catjump2">
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="/wp-content/uploads/2021/04/catjump2-169x300.png" data-width="169" data-height="300" alt="" ></div>
+										<div class="elementor-gallery-item__overlay"></div>
+														</a>
+							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="/wp-content/uploads/2021/04/catjump1.png" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-f1ee7b3" data-elementor-lightbox-title="catjump1">
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="/wp-content/uploads/2021/04/catjump1-169x300.png" data-width="169" data-height="300" alt="" ></div>
+										<div class="elementor-gallery-item__overlay"></div>
+														</a>
+							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="/wp-content/uploads/2021/04/catjump-1.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-f1ee7b3" data-elementor-lightbox-title="catjump">
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="/wp-content/uploads/2021/04/catjump-1-300x169.jpg" data-width="300" data-height="169" alt="" ></div>
+										<div class="elementor-gallery-item__overlay"></div>
+														</a>
+					</div>
+			</div>
+				</div>
+				<div class="elementor-element elementor-element-8fd020a elementor-button-success elementor-align-center elementor-widget elementor-widget-button" data-id="8fd020a" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://play.google.com/store/apps/details?id=com.inhouseinteractive.catjump" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Ver na Loja</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+						</div>
+					</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>/2021/04/29/cat-jump-hyper-casual-game/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Aplicativo de Realidade Aumentada Eclipse Cross Mitsubishi</title>
+		<link>/2021/04/29/aplicativo-de-realidade-aumentada-eclipse-cross-mitsubishi/</link>
+					<comments>/2021/04/29/aplicativo-de-realidade-aumentada-eclipse-cross-mitsubishi/#respond</comments>
+		
+		<dc:creator><![CDATA[trex]]></dc:creator>
+		<pubDate>Thu, 29 Apr 2021 03:32:42 +0000</pubDate>
+				<category><![CDATA[Profissional]]></category>
+		<guid isPermaLink="false">/?p=126</guid>
+
+					<description><![CDATA[Eclipse Cross Mitsubishi Empresa &#8211; Ideas Farm Problema: Demonstrar todas as tecnologias embarcadas do veículo dispensando o uso do manual do proprietário. Solução: Com o objetivo de ressaltar ainda mais as novas tecnologias e qualidades do Eclipse Cross 2019, a Mitsubishi buscou inovar o showroom. Trabalhando juntamente com a equipe [&#8230;]]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="126" class="elementor elementor-126" data-elementor-settings="[]">
+						<div class="elementor-inner">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-3f9aae7f elementor-section-full_width elementor-section-height-min-height elementor-section-height-default elementor-section-items-middle" data-id="3f9aae7f" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-37ef8f7a" data-id="37ef8f7a" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-63bf2ba elementor-widget elementor-widget-heading" data-id="63bf2ba" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h1 class="elementor-heading-title elementor-size-default">Eclipse Cross Mitsubishi</h1>		</div>
+				</div>
+				<div class="elementor-element elementor-element-dd69fec elementor-widget elementor-widget-text-editor" data-id="dd69fec" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+					<h3>Empresa &#8211; Ideas Farm</h3>					</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-acbfa20 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="acbfa20" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f605606" data-id="f605606" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-3549251 elementor-widget elementor-widget-heading" data-id="3549251" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Problema:</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-757a90b elementor-widget elementor-widget-text-editor" data-id="757a90b" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+					Demonstrar todas as tecnologias embarcadas do veículo dispensando o uso do manual do proprietário. <br>					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-eb10dd0 elementor-widget elementor-widget-heading" data-id="eb10dd0" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Solução:</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-e36e984 elementor-widget elementor-widget-text-editor" data-id="e36e984" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+					<p>Com o objetivo de ressaltar ainda mais as novas tecnologias e qualidades do Eclipse Cross 2019, a Mitsubishi buscou inovar o showroom. Trabalhando juntamente com a equipe de design da Mitsubishi e com os gerentes de marketing e publicidade do lançamento do novo Eclipse Cross, desenvolvemos um aplicativo de realidade aumentada personalizado, que moderniza o manual do veículo, tornando-o uma atividade muito mais memorável e impressionante. Quando uma das mais de 30 marcas de realidade aumentada espalhadas pelo modelo em exposição é escaneada pela câmera do app, surgem vídeos, textos, imagens e outros elementos multimídia na tela, apresentando as novidades do veículo como no folheto, mas com muito mais imersão.</p>					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-74bc552 elementor-widget elementor-widget-gallery" data-id="74bc552" data-element_type="widget" data-settings="{&quot;aspect_ratio&quot;:&quot;4:3&quot;,&quot;lazyload&quot;:&quot;yes&quot;,&quot;gallery_layout&quot;:&quot;grid&quot;,&quot;columns&quot;:4,&quot;columns_tablet&quot;:2,&quot;columns_mobile&quot;:1,&quot;gap&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;gap_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;gap_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;link_to&quot;:&quot;file&quot;,&quot;overlay_background&quot;:&quot;yes&quot;,&quot;content_hover_animation&quot;:&quot;fade-in&quot;}" data-widget_type="gallery.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-gallery__container">
+							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="/wp-content/uploads/2021/04/mitsubishi-4.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-74bc552" data-elementor-lightbox-title="mitsubishi-4">
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="/wp-content/uploads/2021/04/mitsubishi-4-300x215.jpg" data-width="300" data-height="215" alt="" ></div>
+										<div class="elementor-gallery-item__overlay"></div>
+														</a>
+							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="/wp-content/uploads/2021/04/mitsubishi-3.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-74bc552" data-elementor-lightbox-title="mitsubishi-3">
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="/wp-content/uploads/2021/04/mitsubishi-3-237x300.jpg" data-width="237" data-height="300" alt="" ></div>
+										<div class="elementor-gallery-item__overlay"></div>
+														</a>
+							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="/wp-content/uploads/2021/04/mitsubishi-2.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-74bc552" data-elementor-lightbox-title="mitsubishi-2">
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="/wp-content/uploads/2021/04/mitsubishi-2-300x266.jpg" data-width="300" data-height="266" alt="" ></div>
+										<div class="elementor-gallery-item__overlay"></div>
+														</a>
+							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="/wp-content/uploads/2021/04/mitsubishi-1.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-74bc552" data-elementor-lightbox-title="mitsubishi-1">
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="/wp-content/uploads/2021/04/mitsubishi-1-300x286.jpg" data-width="300" data-height="286" alt="" ></div>
+										<div class="elementor-gallery-item__overlay"></div>
+														</a>
+							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="/wp-content/uploads/2021/04/cross.png" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-74bc552" data-elementor-lightbox-title="cross">
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="/wp-content/uploads/2021/04/cross-169x300.png" data-width="169" data-height="300" alt="" ></div>
+										<div class="elementor-gallery-item__overlay"></div>
+														</a>
+							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="/wp-content/uploads/2021/04/cross-2.png" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-74bc552" data-elementor-lightbox-title="cross-2">
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="/wp-content/uploads/2021/04/cross-2-169x300.png" data-width="169" data-height="300" alt="" ></div>
+										<div class="elementor-gallery-item__overlay"></div>
+														</a>
+							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="/wp-content/uploads/2021/04/cross-3.png" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-74bc552" data-elementor-lightbox-title="cross-3">
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="/wp-content/uploads/2021/04/cross-3-150x300.png" data-width="150" data-height="300" alt="" ></div>
+										<div class="elementor-gallery-item__overlay"></div>
+														</a>
+							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="/wp-content/uploads/2021/04/cross-4.png" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-74bc552" data-elementor-lightbox-title="cross-4">
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="/wp-content/uploads/2021/04/cross-4-150x300.png" data-width="150" data-height="300" alt="" ></div>
+										<div class="elementor-gallery-item__overlay"></div>
+														</a>
+							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="/wp-content/uploads/2021/04/cross-5.png" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-74bc552" data-elementor-lightbox-title="cross-5">
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="/wp-content/uploads/2021/04/cross-5-150x300.png" data-width="150" data-height="300" alt="" ></div>
+										<div class="elementor-gallery-item__overlay"></div>
+														</a>
+					</div>
+			</div>
+				</div>
+				<div class="elementor-element elementor-element-23ca6c7 elementor-button-success elementor-align-center elementor-widget elementor-widget-button" data-id="23ca6c7" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://play.google.com/store/apps/details?id=br.com.ideasfarm.mitsubishiplay" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Ver na Loja</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+						</div>
+					</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>/2021/04/29/aplicativo-de-realidade-aumentada-eclipse-cross-mitsubishi/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
