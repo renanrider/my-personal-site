@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/wordpress/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description></description>
-	<lastBuildDate>Thu, 29 Apr 2021 15:48:05 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 29 Apr 2021 16:15:58 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -328,7 +328,7 @@
 				<category><![CDATA[Profissional]]></category>
 		<guid isPermaLink="false">/?p=250</guid>
 
-					<description><![CDATA[Eclipse Cross Mitsubishi Empresa &#8211; Ideas Farm Problema: O site não estava otimizado para os motores de buscas. Solução: O objetivo era melhorar o site existente e criar diversas páginas explicando o produto principal do cliente. Foi desenvolvido uma estratégia de otimização Search Engine Optimization e reestruturação de diversas páginas [&#8230;]]]></description>
+					<description><![CDATA[Otimização de SEO + Site Empresa &#8211; Ideas Farm Problema: O site não estava otimizado para os motores de buscas. Solução: O objetivo era melhorar o site existente e criar diversas páginas explicando o produto principal do cliente. Foi desenvolvido uma estratégia de otimização Search Engine Optimization e reestruturação de [&#8230;]]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="250" class="elementor elementor-250" data-elementor-settings="[]">
 						<div class="elementor-inner">
 							<div class="elementor-section-wrap">
@@ -340,7 +340,7 @@
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-052270e elementor-widget elementor-widget-heading" data-id="052270e" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h1 class="elementor-heading-title elementor-size-default">Eclipse Cross Mitsubishi</h1>		</div>
+			<h1 class="elementor-heading-title elementor-size-default">Otimização de SEO + Site</h1>		</div>
 				</div>
 				<div class="elementor-element elementor-element-8848580 elementor-widget elementor-widget-text-editor" data-id="8848580" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
@@ -763,7 +763,7 @@
 				<category><![CDATA[Hobby]]></category>
 		<guid isPermaLink="false">/?p=164</guid>
 
-					<description><![CDATA[Eclipse Cross Mitsubishi Empresa &#8211; Ideas Farm Problema: Recriar um aplicativo já existente com outra tecnologia e ganhar popularidade na Play Store. Solução: É um aplicativo para ensinar calopsitas a cantar. A ideia do aplicativo surgiu quando ganhei uma calopsita e ela não cantava, procurei por algum aplicativo semelhante e [&#8230;]]]></description>
+					<description><![CDATA[Calopsita Cantando &#8211; Aplicativo Problema: Recriar um aplicativo já existente com outra tecnologia e ganhar popularidade na Play Store. Solução: É um aplicativo para ensinar calopsitas a cantar. A ideia do aplicativo surgiu quando ganhei uma calopsita e ela não cantava, procurei por algum aplicativo semelhante e não tinha nenhum [&#8230;]]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="164" class="elementor elementor-164" data-elementor-settings="[]">
 						<div class="elementor-inner">
 							<div class="elementor-section-wrap">
@@ -775,13 +775,7 @@
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-cd9f455 elementor-widget elementor-widget-heading" data-id="cd9f455" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h1 class="elementor-heading-title elementor-size-default">Eclipse Cross Mitsubishi</h1>		</div>
-				</div>
-				<div class="elementor-element elementor-element-88609bc elementor-widget elementor-widget-text-editor" data-id="88609bc" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-								<div class="elementor-text-editor elementor-clearfix">
-					<h3>Empresa &#8211; Ideas Farm</h3>					</div>
-						</div>
+			<h1 class="elementor-heading-title elementor-size-default">Calopsita Cantando - Aplicativo</h1>		</div>
 				</div>
 						</div>
 					</div>
